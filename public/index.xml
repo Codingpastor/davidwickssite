@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>David Wicks</title>
+        <title>David&#39;s site</title>
         <link>http://localhost:1313/</link>
-        <description>This is my cool site</description>
+        <description>Look what a little knowledge can create...</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 25 Mar 2025 10:07:55 -0400</lastBuildDate>
             <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
         <item>
