@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://davidwicks.site/'
 languageCode = 'en-us'
 title = "David's site"
 theme = 'loveit'
@@ -6,5 +6,6 @@ theme = 'loveit'
 [menu]
   [[menu.main]]
     name = "About"
+    pre = "<i class='fas fa-address-card'></i>"
     url = "/about/"
     weight = 2
