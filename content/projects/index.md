@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-date: 2024-03-25T00:00:00Z
+date: 2025-03-31T13:00:00Z
 draft: false
 ---
 
@@ -8,7 +8,13 @@ draft: false
 
 ## Digital Detox Website   
 
-I am currently developing a website that helps people break their addiction to their phones. It will be a customized 21-day email campaign that requires daily check-ins otherwise the service stops and the user needs to pay again in order to complete. It focuses on personal agency and mindfulness.
+I am currently developing a website that helps people break their addiction to their phones. It will be a customized 21-day customized email campaign that requires daily check-ins otherwise the service stops and the user needs to pay again in order to complete. It focuses on personal agency and mindfulness instead of overbearing and obtrusive accountability apps. It utilizes wordpress for the webpage and payment system (woocommerce) and make.com for the backend and automated emails. AI is used to personalize the emails wia API calls in make.com.
+
+I'll post the link here when complete.
+
+## Conversational AI Agents
+
+I am helping to develop a series of websites that use conversational AI agents based off of [elevenlabs](https://try.elevenlabs.io/davidwicks) incredible product. The agents are geared towards helping people solve real world problems and personal issues. The first one being created is geared towards helping Christians deepen their relationship with Christ. I'll post a link when the project is a little bit closer to being completed. The workhorse of this project is a custom built wordpress plugin that interacts with the elevenlabs agents. 
 
 ## Hockey Gear Check
 
