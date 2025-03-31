@@ -6,6 +6,9 @@ draft: false
 
 # Here's some other projects I have on the go:
 
+## Digital Detox Website   
+
+I am currently developing a website that helps people break their addiction to their phones. It will be a customized 21-day email campaign that requires daily check-ins otherwise the service stops and the user needs to pay again in order to complete. It focuses on personal agency and mindfulness.
 
 ## Hockey Gear Check
 
