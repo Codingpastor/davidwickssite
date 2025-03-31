@@ -660,6 +660,14 @@ theme = 'loveit'
     pre = "<i class='fas fa-handshake-angle'></i>"
     url = "/partner/"
     weight = 3
+  [[menu.main]]
+    name = "Contact me"
+    pre = "<i class='fas fa-handshake-angle'></i>"
+    url = "/contact/"
+    weight = 3
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files
