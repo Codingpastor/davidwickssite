@@ -56,13 +56,13 @@ theme = 'loveit'
       logo = ""
       # title name
       # 标题名称
-      name = "David's site"
+      name = "David's"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
-      pre = "<i class='fas fa-house-chimney'></i>"
+      pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
-      post = ""
+      post = "<i class='fas fa-house-chimney'></i>"
       # whether to use typeit animation for title name
       # 是否为标题显示打字机动画
       typeit = false
@@ -652,6 +652,6 @@ theme = 'loveit'
     weight = 2
   [[menu.main]]
     name = "Projects"
-    pre = "<i class='fas fa-address-card'></i>"
+    pre = "<i class='fas fa-diagram-project'></i>"
     url = "/projects/"
-    weight = 2
+    weight = 1
