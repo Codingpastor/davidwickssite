@@ -201,7 +201,7 @@ theme = 'loveit'
       social = true
       # disclaimer (HTML format is supported)
       # 免责声明 (支持 HTML 格式)
-      disclaimer = """I am interested in AI, technology, faith and in becoming a better pastor. I'm even more interested in how these can meet."""
+      disclaimer = """I am interested in AI, technology, faith and in becoming a better pastor. I'm even more interested in how these can meet. And well, a whole bunch of other stuff."""
     # Home page posts
     # 主页文章列表
     [params.home.posts]
