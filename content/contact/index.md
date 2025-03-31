@@ -1,8 +1,10 @@
 ---
-title: "Contact"
+title: ""
 date: 2025-03-31T11:55:00Z
 draft: false
 ---
+
+# Contact me
 
 <form method="post" action="https://forms.un-static.com/forms/50c23501289f089f5a047a6ad15136475019a320" style="width: 100%;">
   <div class="form-group row">
