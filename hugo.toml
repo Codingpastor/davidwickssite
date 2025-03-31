@@ -662,7 +662,7 @@ theme = 'loveit'
     weight = 3
   [[menu.main]]
     name = "Contact me"
-    pre = "<i class='fas fa-handshake-angle'></i>"
+    pre = "<i class='fas fa-envelope'></i>"
     url = "/contact/"
     weight = 3
 
