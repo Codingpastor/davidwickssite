@@ -9,3 +9,8 @@ theme = 'loveit'
     pre = "<i class='fas fa-address-card'></i>"
     url = "/about/"
     weight = 2
+  [[menu.main]]
+    name = "Projects"
+    pre = "<i class='fas fa-address-card'></i>"
+    url = "/projects/"
+    weight = 2
