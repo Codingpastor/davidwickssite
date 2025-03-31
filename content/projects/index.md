@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: ""
 date: 2025-03-31T13:00:00Z
 draft: false
 ---

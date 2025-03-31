@@ -4,7 +4,7 @@ date: 2024-03-25T00:00:00Z
 draft: false
 ---
 
-# About Me
+# About
 
 I am a pastor. I am a hobbyist programer, tinkerer, builder and problem solver. I am also trained as a counselor. I love learning and I love creating new things. I believe the best way to get something working is to just throw something out there, refine, debug and then try again. I love all things creative and truly believe just about anything that can be dreamed up can be created.
 
