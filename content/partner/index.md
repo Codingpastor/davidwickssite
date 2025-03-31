@@ -6,7 +6,7 @@ draft: false
 
 # Want to work together on something?
 
-If you have an idea and you want to make it happen but you just don't know where to start, reach out to me. I've been a creative thinker who loves to solve problems my whole life. One of my strengths... and the thing that drives some people crazy about me is that I just don't quit. Reach out to me at <dawicks@gmail.com>. I love a challenge.
+If you have an idea and you want to make it happen but you just don't know where to start, reach out to me. I've been a creative thinker who loves to solve problems my whole life. One of my strengths... and the thing that drives some people crazy about me is that I just don't quit. Reach out to me at [contact](/contact/). I love a challenge.
 
 ## How much do I charge?
 
