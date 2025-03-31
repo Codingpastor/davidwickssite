@@ -655,3 +655,8 @@ theme = 'loveit'
     pre = "<i class='fas fa-diagram-project'></i>"
     url = "/projects/"
     weight = 1
+  [[menu.main]]
+    name = "Partner"
+    pre = "<i class='fas fa-handshake-angle'></i>"
+    url = "/partner/"
+    weight = 3

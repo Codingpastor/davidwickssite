@@ -6,6 +6,8 @@ draft: false
 
 # About Me
 
+I am a hobbyist programer, tinkerer, builder and 
+
 ## PROFESSIONAL EXPERIENCE
 
 * **Kingsfield Zurich Mennonite Church**, Zurich, Ontario, Canada
@@ -30,16 +32,16 @@ draft: false
 ## SERVICE EXPERIENCE
 
 * **Grenfell International Food and Cultural Festival**, Grenfell, Saskatchewan, Canada
-    * Committee Volunteer (2016 to present)
+    * Committee Volunteer (2016 to 2023)
 * **Grenfell Transit Bus**, Grenfell, Saskatchewan, Canada
-    * Volunteer Bus Driver (2018 to present)
+    * Volunteer Bus Driver (2018 to 2023)
 * **Grenfell Code Club**, Grenfell, Saskatchewan, Canada
     * Volunteer Teacher at Library (2017 -2020)
 * **Grenfell Elementary Student Community Council**, Grenfell, Saskatchewan, Canada
     * Committee Member for Elementary School (2015-2019)
 * **Global Harvest**, Calgary, Alberta, Canada
-    * Missions Committee (July 2014 to present)
-    * Global Rep (July 2014 to present)
+    * Missions Committee (July 2014 to 2023)
+    * Global Rep (July 2014 to 2023)
 * **Briercrest Counseling Services**, Caronport, Saskatchewan, Canada
     * Counseling Internship (February 2012 to January 2014)
 * **Pulpit Supply and Preaching Experience**, Canada, Philippines, United States
