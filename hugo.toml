@@ -653,12 +653,12 @@ theme = 'loveit'
     name = "About"
     pre = "<i class='fas fa-address-card'></i>"
     url = "/about/"
-    weight = 2
+    weight = 1
   [[menu.main]]
     name = "Projects"
     pre = "<i class='fas fa-diagram-project'></i>"
     url = "/projects/"
-    weight = 1
+    weight = 2
   [[menu.main]]
     name = "Partner"
     pre = "<i class='fas fa-handshake-angle'></i>"
@@ -668,6 +668,11 @@ theme = 'loveit'
     name = "Contact me"
     pre = "<i class='fas fa-envelope'></i>"
     url = "/contact/"
+    weight = 3
+  [[menu.main]]
+    name = "Categories"
+    pre = "<i class='fas fa-layer-group'></i>"
+    url = "/categories/"
     weight = 3
 
 [outputs]

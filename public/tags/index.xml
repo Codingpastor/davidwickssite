@@ -1,8 +1,24 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - Tag - David&#39;s site</title>
-        <link>http://localhost:58267/tags/</link>
+        <link>http://localhost:1313/tags/</link>
         <description>Tags - Tag - David&#39;s site</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>dawicks@gmail.com (David Wicks)</managingEditor>
-            <webMaster>dawicks@gmail.com (David Wicks)</webMaster><atom:link href="http://localhost:58267/tags/" rel="self" type="application/rss+xml" /></channel>
+            <webMaster>dawicks@gmail.com (David Wicks)</webMaster><lastBuildDate>Sat, 05 Apr 2025 15:48:55 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Ethics</title>
+    <link>http://localhost:1313/tags/ethics/</link>
+    <pubDate>Sat, 05 Apr 2025 15:48:55 -0400</pubDate>
+    <author>David Wicks</author>
+    <guid>http://localhost:1313/tags/ethics/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Elevenlabs</title>
+    <link>http://localhost:1313/tags/elevenlabs/</link>
+    <pubDate>Sat, 05 Apr 2025 15:00:56 -0400</pubDate>
+    <author>David Wicks</author>
+    <guid>http://localhost:1313/tags/elevenlabs/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>

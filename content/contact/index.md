@@ -35,7 +35,9 @@ draft: false
       <button name="submit" type="submit" class="btn" style="background-color: #000000; color: white; border: none; padding: 12px 28px; border-radius: 6px; font-weight: 500; transition: all 0.3s ease; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);">Send</button>
     </div>
   </div>
+  <!--
   <div class="text-center">
     <p><small>(Powered by <a rel="nofollow" href="Un-static Forms">Un-static Forms</a>)</small></p>
   </div>
+  -->
 </form>

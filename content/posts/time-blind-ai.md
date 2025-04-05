@@ -1,7 +1,7 @@
 +++
 date = '2025-04-05T15:00:56-04:00'
 draft = false
-title = 'Time Blind Ai'
+title = 'Time Blind AI'
 
 # Assign categories AI, technology, faith, pastoring, other
 categories = ["AI"]
