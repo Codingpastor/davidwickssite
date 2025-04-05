@@ -642,7 +642,11 @@ theme = 'loveit'
     objectFit = false
 
 
-
+[taxonomies]
+  category = "categories" # Front matter key: category, URL/template: categories
+  tag = "tags"          # Front matter key: tag, URL/template: tags
+  # You could add custom ones here, e.g.:
+  # series = "series"
 
 [menu]
   [[menu.main]]
