@@ -1,6 +1,6 @@
 +++
 date = '2025-04-05T15:48:55-04:00'
-draft = true
+draft = false
 title = 'Pastoring and AI'
 
 # Assign categories AI, technology, faith, pastoring, other
