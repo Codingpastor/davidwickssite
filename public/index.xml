@@ -1,35 +1,35 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>David&#39;s site</title>
-        <link>http://localhost:58734/</link>
+        <link>http://localhost:1313/</link>
         <description>Look what a little knowledge can create...</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>dawicks@gmail.com (David Wicks)</managingEditor>
             <webMaster>dawicks@gmail.com (David Wicks)</webMaster><lastBuildDate>Sat, 05 Apr 2025 15:48:55 -0400</lastBuildDate>
-            <atom:link href="http://localhost:58734/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Pastoring and AI</title>
-    <link>http://localhost:58734/posts/pastoring-and-ai/</link>
+    <link>http://localhost:1313/posts/pastoring-and-ai/</link>
     <pubDate>Sat, 05 Apr 2025 15:48:55 -0400</pubDate>
     <author>David Wicks</author>
-    <guid>http://localhost:58734/posts/pastoring-and-ai/</guid>
+    <guid>http://localhost:1313/posts/pastoring-and-ai/</guid>
     <description><![CDATA[<h1 id="faith-in-the-age-of-ai-can-technology-help-us-shepherd-the-flock">Faith in the Age of AI: Can Technology Help Us Shepherd the Flock?</h1>
 <p>The world is changing at lightning speed, and Artificial Intelligence (AI) is no longer science fiction – it&rsquo;s becoming part of our daily lives. From how we shop to how we get news, AI is everywhere. As people of faith, and particularly as pastors, this rapid advancement prompts important questions: How do we engage with this powerful technology? Can it be a tool for ministry, or does it pose risks we need to carefully consider?</p>]]></description>
 </item>
 <item>
     <title>Time Blind AI</title>
-    <link>http://localhost:58734/posts/time-blind-ai/</link>
+    <link>http://localhost:1313/posts/time-blind-ai/</link>
     <pubDate>Sat, 05 Apr 2025 15:00:56 -0400</pubDate>
     <author>David Wicks</author>
-    <guid>http://localhost:58734/posts/time-blind-ai/</guid>
-    <description><![CDATA[<h1 id="the-curious-case-of-the-time-blind-ai-lessons-from-building-an-elevenlabs-agent">The Curious Case of the Time-Blind AI: Lessons from Building an elevenlabs Agent</h1>
-<p>Large language models (LLMs) are amazing, but they have a funny quirk: they don&rsquo;t really understand the passage of time within a conversation. This became super clear when we were building an AI agent with elevenLabs. You can learn more about their product here: <a href="https://elevenlabs.io/conversational-ai" target="_blank" rel="noopener noreffer ">elevenlabs conversational AI agents</a>. In a nutshell its an LLM linked with a realistic chat bot.</p>]]></description>
+    <guid>http://localhost:1313/posts/time-blind-ai/</guid>
+    <description><![CDATA[<h1 id="the-curious-case-of-the-time-blind-ai-lessons-from-building-an-elevenlabs-agent">The Curious Case of the Time-Blind AI: Lessons from Building an ElevenLabs Agent</h1>
+<p>Large language models (LLMs) are amazing, but they have a funny quirk: they don&rsquo;t really understand the passage of time within a conversation. This became super clear when we were developing an AI agent with ElevenLabs. You can learn more about their product here: <a href="https://elevenlabs.io/conversational-ai" target="_blank" rel="noopener noreffer ">ElevenLabs conversational AI agents</a>. I strongly suggest you check them out. It&rsquo;s a pretty amazing service. If you want to sign up, please use <a href="https://try.elevenlabs.io/davidwicks" target="_blank" rel="noopener noreffer ">this link</a>. It will give me a little kickback. In a nutshell, it&rsquo;s an LLM linked with a realistic chatbot. Amazingly realistic! I know it&rsquo;s not the same as a real person, but it can feel very, very real.</p>]]></description>
 </item>
 <item>
     <title>Hello World</title>
-    <link>http://localhost:58734/posts/my-first-post/</link>
+    <link>http://localhost:1313/posts/my-first-post/</link>
     <pubDate>Tue, 25 Mar 2025 10:07:55 -0400</pubDate>
     <author>David Wicks</author>
-    <guid>http://localhost:58734/posts/my-first-post/</guid>
+    <guid>http://localhost:1313/posts/my-first-post/</guid>
     <description><![CDATA[<h2 id="introduction">Introduction</h2>
 <p>This is <strong>my first post</strong>. This is <em>gonna</em> be fun. I can&rsquo;t wait to build more!</p>]]></description>
 </item>
