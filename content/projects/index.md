@@ -6,6 +6,10 @@ draft: false
 
 # Here's some other projects I have on the go:
 
+## AI Agent Test Page
+
+As I mention below, I've been learning a tonne about developing and deploying conversational AI agents using Elevenlabs. I have used their widgets, developed a custom working wordpress plugin (I hope you can see it in action soon) as well as a simple custom web interface for their agents using javascript/vite. I think that this is a marketable skill that will be worth something to the right customers. With that in mind, I've created a little "sales" page where a potential customer could try out an AI agent. You can try out this page and an agent [here](https://agents.davidwicks.site/). I'm sure you'll enjoy talking to Tony about your plumbing.
+
 ## Digital Detox Website   
 
 I am currently developing a website that helps people break their addiction to their phones. It will be a customized 21-day customized email campaign that requires daily check-ins otherwise the service stops and the user needs to pay again in order to complete. It focuses on personal agency and mindfulness instead of overbearing and obtrusive accountability apps. It utilizes wordpress for the webpage and payment system (woocommerce) and make.com for the backend and automated emails. AI is used to personalize the emails wia API calls in make.com.
