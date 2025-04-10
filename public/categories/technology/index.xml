@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Technology - Category - David&#39;s site</title>
+        <link>http://localhost:1313/categories/technology/</link>
+        <description>Technology - Category - David&#39;s site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>dawicks@gmail.com (David Wicks)</managingEditor>
+            <webMaster>dawicks@gmail.com (David Wicks)</webMaster><lastBuildDate>Thu, 10 Apr 2025 11:07:42 -0400</lastBuildDate><atom:link href="http://localhost:1313/categories/technology/" rel="self" type="application/rss+xml" /><item>
+    <title>Administrative Burden</title>
+    <link>http://localhost:1313/posts/administrative-burden/</link>
+    <pubDate>Thu, 10 Apr 2025 11:07:42 -0400</pubDate>
+    <author>David Wicks</author>
+    <guid>http://localhost:1313/posts/administrative-burden/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

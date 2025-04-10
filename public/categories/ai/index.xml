@@ -4,7 +4,15 @@
         <link>http://localhost:1313/categories/ai/</link>
         <description>AI - Category - David&#39;s site</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>dawicks@gmail.com (David Wicks)</managingEditor>
-            <webMaster>dawicks@gmail.com (David Wicks)</webMaster><lastBuildDate>Sat, 05 Apr 2025 15:00:56 -0400</lastBuildDate><atom:link href="http://localhost:1313/categories/ai/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>dawicks@gmail.com (David Wicks)</webMaster><lastBuildDate>Thu, 10 Apr 2025 11:07:42 -0400</lastBuildDate><atom:link href="http://localhost:1313/categories/ai/" rel="self" type="application/rss+xml" /><item>
+    <title>Administrative Burden</title>
+    <link>http://localhost:1313/posts/administrative-burden/</link>
+    <pubDate>Thu, 10 Apr 2025 11:07:42 -0400</pubDate>
+    <author>David Wicks</author>
+    <guid>http://localhost:1313/posts/administrative-burden/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>Time Blind AI</title>
     <link>http://localhost:1313/posts/time-blind-ai/</link>
     <pubDate>Sat, 05 Apr 2025 15:00:56 -0400</pubDate>
