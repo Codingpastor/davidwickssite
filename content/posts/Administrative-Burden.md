@@ -1,6 +1,6 @@
 +++
 date = '2025-04-10T11:07:42-04:00'
-draft = true
+draft = false
 title = 'Administrative Burden'
 
 # Assign categories AI, technology, faith, pastoring, other
