@@ -6,4 +6,4 @@ title = 'Hello World'
 
 ## Introduction
 
-This is **my first post**. This is *gonna* be fun. I can't wait to write more!
+This is **my first post**. This is *gonna* be fun. I can't wait to write more.
