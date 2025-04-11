@@ -2,7 +2,7 @@
     <channel>
         <title>David&#39;s site</title>
         <link>http://localhost:1313/</link>
-        <description>Look what a little knowledge can create...</description>
+        <description>I&#39;m interested in AI, technology, faith and in becoming a better pastor. I&#39;m even more interested in how these can meet. And well, a whole bunch of other stuff. I&#39;d love to help you make your idea a reality. This site is a blog and a place where I share my ideas.</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>dawicks@gmail.com (David Wicks)</managingEditor>
             <webMaster>dawicks@gmail.com (David Wicks)</webMaster><lastBuildDate>Thu, 10 Apr 2025 11:07:42 -0400</lastBuildDate>
             <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
