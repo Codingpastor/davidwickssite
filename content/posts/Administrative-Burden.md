@@ -47,7 +47,7 @@ The pastor's primary calling includes:
 
 The tragic irony is that the very administrative machine meant to support ministry often consumes the minister. 
 
-For me personally, my hope would be to focus on teaching, preaching, caring and my own personal spiritual and character growth.
+For me personally, my desire would be to focus on teaching, preaching, caring and my own personal spiritual and character growth. However, there are many days I find myself distracted by a long list of little to do's. None are overwhelming but they pull my heart and attention away from the deeper more important things.
 
 ## The Leadership Fallacy
 
@@ -56,6 +56,8 @@ Our culture has embraced a corporate model of church leadership that places an i
 The unspoken assumption is that a church thrives primarily through excellent leadership systems and organizational efficiency. But this represents a significant departure from the biblical model, where spiritual transformation—not administrative excellence—drives authentic ministry impact.
 
 The Apostle Paul reminds us in 2 Corinthians 3:18 that we "are being transformed into the same image from one degree of glory to another." This transformation of character, empowered by the Spirit of God, is what ultimately moves the church forward—not strategic plans or organizational charts.
+
+So... what exactly do we expect from our pastors?
 
 ## A Better Way Forward: Technology as Additional Support
 
@@ -112,7 +114,7 @@ Pastors must:
 3. **Strategically implement** technological solutions to further reduce administrative burden
 4. **Educate their congregations** about the pastor's primary calling
 5. **Continue developing teams** that can share administrative responsibilities
-6. **Identify which tasks** truly require pastoral oversight versus those that can be fully delegated
+6. **Identify which tasks** truly require pastoral oversight versus those that can be fully delegated or automated.
 
 ## Conclusion: Rediscovering the Pastor's Heart
 
