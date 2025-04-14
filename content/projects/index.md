@@ -8,7 +8,7 @@ draft: false
 
 ## Claude.ai Breakup Generator
 
-Purely for fun and as quick as I could make it, a claude.ai breakup generator. I loved claude and I hope they can get back on track because for a time they were the best out there for coding and developing websites, but they have lost their way. Check it out [here](https://claudebreakup.davidwicks.site/)
+Purely for fun and as quick as I could make it, a claude.ai breakup generator. I loved claude and I hope they can get back on track because for a time they were the best out there for coding and developing websites, but they have lost their way. Check it out [here](https://claudebreakup.davidwicks.site/).
 
 ## AI Agent Test Page
 
