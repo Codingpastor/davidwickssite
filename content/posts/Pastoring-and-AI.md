@@ -20,7 +20,7 @@ As a pastor myself, I've been pondering how AI might intersect with my calling. 
 
 Let's be honest: pastoral ministry involves a significant amount of administration. Scheduling meetings, coordinating volunteers, sending communications, and managing resources – these tasks are necessary but can consume valuable time that could be spent in prayer, study, or directly ministering to people.
 
-Could AI help? Tools are emerging that can automate scheduling, draft initial communications (like event reminders or newsletters), and manage calendars. But the area I find most intriguing, and perhaps most complex, is **database management** – what I sometimes call (with pastoral affection!) "sheep management."
+Could AI help? Tools are emerging that can automate scheduling, draft initial communications (like event reminders or newsletters), and manage calendars. But the area I find most intriguing, and perhaps most complex, is using **database management** to help track and care for people i– what I sometimes call (with pastoral affection!) "sheep management."
 
 Imagine moving beyond simple contact lists. Could AI help us, ethically and with appropriate permissions, keep better track of our congregants' journeys?
 * Noting significant life events, like a birth, a new job, or, sadly, a loss in the family, prompting timely pastoral care.
