@@ -6,6 +6,10 @@ draft: false
 
 # Here's some other projects I have on the go:
 
+## Claude.ai Breakup Generator
+
+Purely for fun and as quick as I could make it, a claude.ai breakup generator. I loved claude and I hope they can get back on track because for a time they were the best out there for coding and developing websites, but they have lost their way. Check it out [here](https://claudebreakup.davidwicks.site/)
+
 ## AI Agent Test Page
 
 As I mention below, I've been learning a tonne about developing and deploying conversational AI agents using Elevenlabs. I have used their widgets, developed a custom working wordpress plugin (I hope you can see it in action soon) as well as a simple custom web interface for their agents using javascript/vite. I think that this is a marketable skill that will be worth something to the right customers. With that in mind, I've created a little "sales" page where a potential customer could try out an AI agent. You can try out this page and an agent [here](https://agents.davidwicks.site/). I'm sure you'll enjoy talking to Tony about your plumbing.
