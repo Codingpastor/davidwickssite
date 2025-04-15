@@ -670,10 +670,10 @@ theme = 'loveit'
     url = "/contact/"
     weight = 3
   [[menu.main]]
-    name = "Categories"
+    name = "Archives"
     pre = "<i class='fas fa-layer-group'></i>"
-    url = "/categories/"
-    weight = 3
+    url = "/Archives/"
+    weight = 4
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
