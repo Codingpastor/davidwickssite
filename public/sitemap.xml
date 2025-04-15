@@ -2,12 +2,13 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>http://localhost:1313/</loc><lastmod>2025-04-15T09:29:33-04:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/</loc><lastmod>2025-04-15T09:29:33-04:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/train-yourself/</loc><lastmod>2025-04-15T09:29:33-04:00</lastmod></url><url>
             <loc>http://localhost:1313/posts/administrative-burden/</loc><lastmod>2025-04-10T11:07:42-04:00</lastmod></url><url>
             <loc>http://localhost:1313/categories/ai/</loc><lastmod>2025-04-10T11:07:42-04:00</lastmod></url><url>
             <loc>http://localhost:1313/categories/</loc><lastmod>2025-04-10T11:07:42-04:00</lastmod></url><url>
-            <loc>http://localhost:1313/</loc><lastmod>2025-04-10T11:07:42-04:00</lastmod></url><url>
             <loc>http://localhost:1313/categories/pastoring/</loc><lastmod>2025-04-10T11:07:42-04:00</lastmod></url><url>
-            <loc>http://localhost:1313/posts/</loc><lastmod>2025-04-10T11:07:42-04:00</lastmod></url><url>
             <loc>http://localhost:1313/categories/technology/</loc><lastmod>2025-04-10T11:07:42-04:00</lastmod></url><url>
             <loc>http://localhost:1313/tags/ethics/</loc><lastmod>2025-04-05T15:48:55-04:00</lastmod></url><url>
             <loc>http://localhost:1313/posts/pastoring-and-ai/</loc><lastmod>2025-04-05T15:48:55-04:00</lastmod></url><url>

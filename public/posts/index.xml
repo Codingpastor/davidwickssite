@@ -4,7 +4,30 @@
         <link>http://localhost:1313/posts/</link>
         <description>All Posts | David&#39;s site</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>dawicks@gmail.com (David Wicks)</managingEditor>
-            <webMaster>dawicks@gmail.com (David Wicks)</webMaster><lastBuildDate>Thu, 10 Apr 2025 11:07:42 -0400</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>dawicks@gmail.com (David Wicks)</webMaster><lastBuildDate>Tue, 15 Apr 2025 09:29:33 -0400</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Train Yourself to Be Godly</title>
+    <link>http://localhost:1313/posts/train-yourself/</link>
+    <pubDate>Tue, 15 Apr 2025 09:29:33 -0400</pubDate>
+    <author>David Wicks</author>
+    <guid>http://localhost:1313/posts/train-yourself/</guid>
+    <description><![CDATA[<p>+++
+title =
+date = 2025-04-15T09:27:00-04:00 # Adjusted to current date/time EDT
+draft = false
+tags = [&ldquo;faith&rdquo;, &ldquo;spiritual growth&rdquo;, &ldquo;christianity&rdquo;, &ldquo;discipline&rdquo;, &ldquo;training&rdquo;]
++++</p>
+<p>Here is something I&rsquo;ve been thinking about for a long, long time: train yourself to be godly.</p>
+<h2 id="the-common-flawed-assumption-about-spiritual-growth">The Common (Flawed) Assumption About Spiritual Growth</h2>
+<p>In my early years, I adopted a view of spiritual growth that goes something like this:</p>
+<ol>
+<li>Say a sinner&rsquo;s prayer</li>
+<li>Jesus comes into your heart</li>
+<li>Grow closer to God over time</li>
+<li>Go to heaven</li>
+</ol>
+<p>I can&rsquo;t argue with steps one and two. Nor could I argue with steps 3 and 4. However, step three is based on a major assumption—that it happens <em>naturally</em>.</p>]]></description>
+</item>
+<item>
     <title>Administrative Burden</title>
     <link>http://localhost:1313/posts/administrative-burden/</link>
     <pubDate>Thu, 10 Apr 2025 11:07:42 -0400</pubDate>
@@ -40,7 +63,7 @@
     <author>David Wicks</author>
     <guid>http://localhost:1313/posts/my-first-post/</guid>
     <description><![CDATA[<h2 id="introduction">Introduction</h2>
-<p>This is <strong>my first post</strong>. This is <em>gonna</em> be fun. I can&rsquo;t wait to write more!</p>]]></description>
+<p>This is <strong>my first post</strong>. This is <em>gonna</em> be fun. I can&rsquo;t wait to write more.</p>]]></description>
 </item>
 </channel>
 </rss>
