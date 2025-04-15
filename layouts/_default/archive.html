@@ -1,0 +1,49 @@
+{{ define "main" }}
+<article class="page archive">
+    {{/* Use the theme's header style if available, otherwise a simple one */}}
+    <header class="page-header">
+        <h1 class="page-title">{{ .Title }}</h1>
+        {{ with .Params.subtitle }}<h2 class="page-subtitle">{{ . }}</h2>{{ end }}
+    </header>
+
+    {{/* Render any content written in content/archive.md */}}
+    {{ if .Content }}
+    <div class="page-content">
+        {{ .Content }}
+    </div>
+    {{ end }}
+
+    {{/* --- Archive Listing Logic --- */}}
+    {{/* Get all regular pages (posts, articles, etc.) from the main sections */}}
+    {{/* Adjust "posts" if your blog posts are in a different section like "blog" */}}
+    {{ $pages := where site.RegularPages "Section" "posts" }}
+    {{/* Alternative: Use mainSections defined in config if you have multiple content types */}}
+    {{/* {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }} */}}
+
+    {{/* Optional: Filter out future posts if needed */}}
+    {{/* {{ $pages = where $pages ".Date.Unix" "<" now.Unix }} */}}
+
+
+    {{ if $pages }}
+    <div class="archive-list">
+        {{/* Group pages by year */}}
+        {{ range $pages.GroupByDate "2006" }}
+            <h2 class="archive-year">{{ .Key }}</h2>
+            <ul class="archive-posts">
+                {{/* List pages within each year group */}}
+                {{ range .Pages }}
+                <li class="archive-post">
+                    <span class="archive-date">{{ .Date.Format "Jan 02" }}</span>
+                    <a href="{{ .RelPermalink }}" class="archive-title">{{ .Title }}</a>
+                </li>
+                {{ end }}
+            </ul>
+        {{ end }}
+    </div>
+    {{ else }}
+        <p>No posts found.</p>
+    {{ end }}
+    {{/* --- End Archive Listing Logic --- */}}
+
+</article>
+{{ end }}
