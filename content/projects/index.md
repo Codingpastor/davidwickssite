@@ -8,7 +8,7 @@ draft: false
 
 ## Simple Bible Reading Web App
 
-I got sick of all the overly complicated and feature rich bible apps out there that either have ads or are trying to promote books or The Chosen series or some other product so I decided to build my own. It's not flashy and not finished, but it works. It's set up for where I currently am in the but I will add some more personalized features in the future. Let me know what you think: [Dave's Bible Plan](https://bible.davidwicks.site)
+I got sick of all the overly complicated and feature rich bible apps out there that either have ads or are trying to promote books or The Chosen series or some other product so I decided to build my own. It's not flashy and not finished, but it works. It's set up for where I currently am in the but I will add some more personalized features in the future. I've got it hard coded for a 3-year bible reading cycle, which is a reasonable pace for me. Let me know what you think: [Dave's Bible Plan](https://bible.davidwicks.site)
 
 ## Claude.ai Breakup Generator
 
