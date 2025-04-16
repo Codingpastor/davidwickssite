@@ -6,6 +6,10 @@ draft: false
 
 # Here's some other projects I have on the go:
 
+## Simple Bible Reading Web App
+
+I got sick of all the overly complicated and feature rich bible apps out there that either have ads or are trying to promote books or The Chosen series or some other product so I decided to build my own. It's not flashy and not finished, but it works. It's set up for where I currently am in the but I will add some more personalized features in the future. Let me know what you think: [Dave's Bible Plan](https://bible.davidwicks.site)
+
 ## Claude.ai Breakup Generator
 
 Purely for fun and as quick as I could make it, a claude.ai breakup generator. I loved claude and I hope they can get back on track because for a time they were the best out there for coding and developing websites, but they have lost their way. Check it out [here](https://claudebreakup.davidwicks.site/).
