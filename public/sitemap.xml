@@ -2,13 +2,14 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>http://localhost:1313/posts/ai-enhanced-sermon-prep/</loc><lastmod>2025-04-19T14:14:48-04:00</lastmod></url><url>
+            <loc>http://localhost:1313/</loc><lastmod>2025-04-19T14:14:48-04:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/</loc><lastmod>2025-04-19T14:14:48-04:00</lastmod></url><url>
             <loc>http://localhost:1313/categories/</loc><lastmod>2025-04-15T09:29:33-04:00</lastmod></url><url>
             <loc>http://localhost:1313/tags/christianity/</loc><lastmod>2025-04-15T09:29:33-04:00</lastmod></url><url>
-            <loc>http://localhost:1313/</loc><lastmod>2025-04-15T09:29:33-04:00</lastmod></url><url>
             <loc>http://localhost:1313/tags/discipline/</loc><lastmod>2025-04-15T09:29:33-04:00</lastmod></url><url>
             <loc>http://localhost:1313/categories/faith/</loc><lastmod>2025-04-15T09:29:33-04:00</lastmod></url><url>
             <loc>http://localhost:1313/tags/faith/</loc><lastmod>2025-04-15T09:29:33-04:00</lastmod></url><url>
-            <loc>http://localhost:1313/posts/</loc><lastmod>2025-04-15T09:29:33-04:00</lastmod></url><url>
             <loc>http://localhost:1313/tags/spiritual-growth/</loc><lastmod>2025-04-15T09:29:33-04:00</lastmod></url><url>
             <loc>http://localhost:1313/tags/</loc><lastmod>2025-04-15T09:29:33-04:00</lastmod></url><url>
             <loc>http://localhost:1313/posts/train-yourself/</loc><lastmod>2025-04-15T09:29:33-04:00</lastmod></url><url>
