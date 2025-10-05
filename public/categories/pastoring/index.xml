@@ -1,28 +1,35 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Pastoring - Category - David&#39;s site</title>
-        <link>http://localhost:1313/categories/pastoring/</link>
-        <description>Pastoring - Category - David&#39;s site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>dawicks@gmail.com (David Wicks)</managingEditor>
-            <webMaster>dawicks@gmail.com (David Wicks)</webMaster><lastBuildDate>Thu, 10 Apr 2025 11:07:42 -0400</lastBuildDate><atom:link href="http://localhost:1313/categories/pastoring/" rel="self" type="application/rss+xml" /><item>
-    <title>Administrative Burden</title>
-    <link>http://localhost:1313/posts/administrative-burden/</link>
-    <pubDate>Thu, 10 Apr 2025 11:07:42 -0400</pubDate>
-    <author>David Wicks</author>
-    <guid>http://localhost:1313/posts/administrative-burden/</guid>
-    <description><![CDATA[<h1 id="the-hidden-burden-how-administrative-tasks-drain-pastoral-energy">The Hidden Burden: How Administrative Tasks Drain Pastoral Energy</h1>
-<p>In the quiet hours before dawn, Pastor David sits at his desk reviewing reports, making decisions on facility issues, and finalizing next month&rsquo;s ministry calendar. His sermon preparation—the work he feels truly called to do—sits untouched in the corner.</p>
-<p><em>Ok a little theatric, but not far from the truth on some days.</em></p>
-<p>Despite having dedicated staff and volunteers who handle many day-to-day tasks, this scene plays out in countless churches across the country, where pastors still find themselves shouldering administrative responsibilities that pull them away from their primary calling.</p>]]></description>
-</item>
-<item>
-    <title>Pastoring and AI</title>
-    <link>http://localhost:1313/posts/pastoring-and-ai/</link>
-    <pubDate>Sat, 05 Apr 2025 15:48:55 -0400</pubDate>
-    <author>David Wicks</author>
-    <guid>http://localhost:1313/posts/pastoring-and-ai/</guid>
-    <description><![CDATA[<h1 id="faith-in-the-age-of-ai-can-technology-help-us-shepherd-the-flock">Faith in the Age of AI: Can Technology Help Us Shepherd the Flock?</h1>
-<p>The world is changing at lightning speed, and Artificial Intelligence (AI) is no longer science fiction – it&rsquo;s becoming part of our daily lives. From how we shop to how we get news, AI is everywhere. As people of faith, and particularly as pastors, this rapid advancement prompts important questions: How do we engage with this powerful technology? Can it be a tool for ministry, or does it pose risks we need to carefully consider?</p>]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pastoring on David&#39;s site</title>
+    <link>https://davidwicks.site/categories/pastoring/</link>
+    <description>Recent content in Pastoring on David&#39;s site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>dawicks@gmail.com (David Wicks)</managingEditor>
+    <webMaster>dawicks@gmail.com (David Wicks)</webMaster>
+    <lastBuildDate>Sat, 19 Apr 2025 14:14:48 -0400</lastBuildDate>
+    <atom:link href="https://davidwicks.site/categories/pastoring/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Enhanced Sermon Prep</title>
+      <link>https://davidwicks.site/posts/ai-enhanced-sermon-prep/</link>
+      <pubDate>Sat, 19 Apr 2025 14:14:48 -0400</pubDate><author>dawicks@gmail.com (David Wicks)</author>
+      <guid>https://davidwicks.site/posts/ai-enhanced-sermon-prep/</guid>
+      <description>AI and Sermon Preparation: Navigating the New Frontier Artificial intelligence is advancing at breakneck speed, touching nearly every aspect of our lives, including ministry. For pastors, one of the most intriguing—and perhaps challenging—applications is in sermon preparation.&#xA;Try This First: Experience AI Sermon Generation Before you read any further, I want you to try something. Go to an AI platform like ChatGPT, Claude AI, or Gemini. Copy and paste the following prompt into the chat window and see what happens:</description>
+    </item>
+    <item>
+      <title>Administrative Burden</title>
+      <link>https://davidwicks.site/posts/administrative-burden/</link>
+      <pubDate>Thu, 10 Apr 2025 11:07:42 -0400</pubDate><author>dawicks@gmail.com (David Wicks)</author>
+      <guid>https://davidwicks.site/posts/administrative-burden/</guid>
+      <description>The Hidden Burden: How Administrative Tasks Drain Pastoral Energy In the quiet hours before dawn, Pastor David sits at his desk reviewing reports, making decisions on facility issues, and finalizing next month&amp;rsquo;s ministry calendar. His sermon preparation—the work he feels truly called to do—sits untouched in the corner.&#xA;Ok a little theatric, but not far from the truth on some days.&#xA;Despite having dedicated staff and volunteers who handle many day-to-day tasks, this scene plays out in countless churches across the country, where pastors still find themselves shouldering administrative responsibilities that pull them away from their primary calling.</description>
+    </item>
+    <item>
+      <title>Pastoring and AI</title>
+      <link>https://davidwicks.site/posts/pastoring-and-ai/</link>
+      <pubDate>Sat, 05 Apr 2025 15:48:55 -0400</pubDate><author>dawicks@gmail.com (David Wicks)</author>
+      <guid>https://davidwicks.site/posts/pastoring-and-ai/</guid>
+      <description>Faith in the Age of AI: Can Technology Help Us Shepherd the Flock? The world is changing at lightning speed, and Artificial Intelligence (AI) is no longer science fiction – it&amp;rsquo;s becoming part of our daily lives. From how we shop to how we get news, AI is everywhere. As people of faith, and particularly as pastors, this rapid advancement prompts important questions: How do we engage with this powerful technology?</description>
+    </item>
+  </channel>
 </rss>

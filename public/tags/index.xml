@@ -1,64 +1,63 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Tags - Tag - David&#39;s site</title>
-        <link>http://localhost:1313/tags/</link>
-        <description>Tags - Tag - David&#39;s site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>dawicks@gmail.com (David Wicks)</managingEditor>
-            <webMaster>dawicks@gmail.com (David Wicks)</webMaster><lastBuildDate>Tue, 15 Apr 2025 09:29:33 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /><item>
-    <title>Christianity</title>
-    <link>http://localhost:1313/tags/christianity/</link>
-    <pubDate>Tue, 15 Apr 2025 09:29:33 -0400</pubDate>
-    <author>David Wicks</author>
-    <guid>http://localhost:1313/tags/christianity/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Discipline</title>
-    <link>http://localhost:1313/tags/discipline/</link>
-    <pubDate>Tue, 15 Apr 2025 09:29:33 -0400</pubDate>
-    <author>David Wicks</author>
-    <guid>http://localhost:1313/tags/discipline/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Faith</title>
-    <link>http://localhost:1313/tags/faith/</link>
-    <pubDate>Tue, 15 Apr 2025 09:29:33 -0400</pubDate>
-    <author>David Wicks</author>
-    <guid>http://localhost:1313/tags/faith/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Spiritual Growth</title>
-    <link>http://localhost:1313/tags/spiritual-growth/</link>
-    <pubDate>Tue, 15 Apr 2025 09:29:33 -0400</pubDate>
-    <author>David Wicks</author>
-    <guid>http://localhost:1313/tags/spiritual-growth/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Training</title>
-    <link>http://localhost:1313/tags/training/</link>
-    <pubDate>Tue, 15 Apr 2025 09:29:33 -0400</pubDate>
-    <author>David Wicks</author>
-    <guid>http://localhost:1313/tags/training/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Ethics</title>
-    <link>http://localhost:1313/tags/ethics/</link>
-    <pubDate>Sat, 05 Apr 2025 15:48:55 -0400</pubDate>
-    <author>David Wicks</author>
-    <guid>http://localhost:1313/tags/ethics/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Elevenlabs</title>
-    <link>http://localhost:1313/tags/elevenlabs/</link>
-    <pubDate>Sat, 05 Apr 2025 15:00:56 -0400</pubDate>
-    <author>David Wicks</author>
-    <guid>http://localhost:1313/tags/elevenlabs/</guid>
-    <description><![CDATA[]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on David&#39;s site</title>
+    <link>https://davidwicks.site/tags/</link>
+    <description>Recent content in Tags on David&#39;s site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>dawicks@gmail.com (David Wicks)</managingEditor>
+    <webMaster>dawicks@gmail.com (David Wicks)</webMaster>
+    <lastBuildDate>Tue, 15 Apr 2025 09:29:33 -0400</lastBuildDate>
+    <atom:link href="https://davidwicks.site/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Christianity</title>
+      <link>https://davidwicks.site/tags/christianity/</link>
+      <pubDate>Tue, 15 Apr 2025 09:29:33 -0400</pubDate><author>dawicks@gmail.com (David Wicks)</author>
+      <guid>https://davidwicks.site/tags/christianity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Discipline</title>
+      <link>https://davidwicks.site/tags/discipline/</link>
+      <pubDate>Tue, 15 Apr 2025 09:29:33 -0400</pubDate><author>dawicks@gmail.com (David Wicks)</author>
+      <guid>https://davidwicks.site/tags/discipline/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Faith</title>
+      <link>https://davidwicks.site/tags/faith/</link>
+      <pubDate>Tue, 15 Apr 2025 09:29:33 -0400</pubDate><author>dawicks@gmail.com (David Wicks)</author>
+      <guid>https://davidwicks.site/tags/faith/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spiritual Growth</title>
+      <link>https://davidwicks.site/tags/spiritual-growth/</link>
+      <pubDate>Tue, 15 Apr 2025 09:29:33 -0400</pubDate><author>dawicks@gmail.com (David Wicks)</author>
+      <guid>https://davidwicks.site/tags/spiritual-growth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Training</title>
+      <link>https://davidwicks.site/tags/training/</link>
+      <pubDate>Tue, 15 Apr 2025 09:29:33 -0400</pubDate><author>dawicks@gmail.com (David Wicks)</author>
+      <guid>https://davidwicks.site/tags/training/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ethics</title>
+      <link>https://davidwicks.site/tags/ethics/</link>
+      <pubDate>Sat, 05 Apr 2025 15:48:55 -0400</pubDate><author>dawicks@gmail.com (David Wicks)</author>
+      <guid>https://davidwicks.site/tags/ethics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Elevenlabs</title>
+      <link>https://davidwicks.site/tags/elevenlabs/</link>
+      <pubDate>Sat, 05 Apr 2025 15:00:56 -0400</pubDate><author>dawicks@gmail.com (David Wicks)</author>
+      <guid>https://davidwicks.site/tags/elevenlabs/</guid>
+      <description></description>
+    </item>
+  </channel>
 </rss>

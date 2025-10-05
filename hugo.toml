@@ -680,3 +680,13 @@ theme = 'loveit'
 
 [markup.goldmark.renderer]
   unsafe = true # Allow HTML in md files
+
+# Sitemap configuration
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+# SEO and search engine settings
+enableRobotsTXT = true
+canonifyURLs = true

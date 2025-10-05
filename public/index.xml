@@ -1,76 +1,91 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>David&#39;s site</title>
-        <link>http://localhost:1313/</link>
-        <description>I&#39;m interested in AI, technology, faith and in becoming a better pastor. I&#39;m even more interested in how these can meet. And well, a whole bunch of other stuff. I&#39;d love to help you make your idea a reality. This site is a blog and a place where I share my ideas.</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>dawicks@gmail.com (David Wicks)</managingEditor>
-            <webMaster>dawicks@gmail.com (David Wicks)</webMaster><lastBuildDate>Sat, 19 Apr 2025 14:14:48 -0400</lastBuildDate>
-            <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-        <item>
-    <title>AI Enhanced Sermon Prep</title>
-    <link>http://localhost:1313/posts/ai-enhanced-sermon-prep/</link>
-    <pubDate>Sat, 19 Apr 2025 14:14:48 -0400</pubDate>
-    <author>David Wicks</author>
-    <guid>http://localhost:1313/posts/ai-enhanced-sermon-prep/</guid>
-    <description><![CDATA[<h1 id="ai-and-sermon-preparation-navigating-the-new-frontier">AI and Sermon Preparation: Navigating the New Frontier</h1>
-<p>Artificial intelligence is advancing at breakneck speed, touching nearly every aspect of our lives, including ministry. For pastors, one of the most intriguing—and perhaps challenging—applications is in sermon preparation.</p>
-<h2 id="try-this-first-experience-ai-sermon-generation">Try This First: Experience AI Sermon Generation</h2>
-<p>Before you read any further, I want you to try something. Go to an AI platform like <a href="https://chatgpt.com/" target="_blank" rel="noopener noreffer ">ChatGPT</a>, <a href="https://claude.ai/" target="_blank" rel="noopener noreffer ">Claude AI</a>, or <a href="https://gemini.google.com/" target="_blank" rel="noopener noreffer ">Gemini</a>. Copy and paste the following prompt into the chat window and see what happens:</p>]]></description>
-</item>
-<item>
-    <title>Train Yourself to Be Godly</title>
-    <link>http://localhost:1313/posts/train-yourself/</link>
-    <pubDate>Tue, 15 Apr 2025 09:29:33 -0400</pubDate>
-    <author>David Wicks</author>
-    <guid>http://localhost:1313/posts/train-yourself/</guid>
-    <description><![CDATA[<p>Here is something I&rsquo;ve been thinking about for a long, long time: train yourself to be godly.</p>
-<h2 id="the-common-flawed-assumption-about-spiritual-growth">The Common (Flawed) Assumption About Spiritual Growth</h2>
-<p>In my early years, I adopted a view of spiritual growth that goes something like this:</p>
-<ol>
-<li>Say a sinner&rsquo;s prayer</li>
-<li>Jesus comes into your heart</li>
-<li>Grow closer to God over time</li>
-<li>Go to heaven</li>
-</ol>
-<p>I can&rsquo;t argue with steps one and two. Nor could I argue with steps 3 and 4. However, step three is based on a major assumption—that it happens <em>naturally</em>.</p>]]></description>
-</item>
-<item>
-    <title>Administrative Burden</title>
-    <link>http://localhost:1313/posts/administrative-burden/</link>
-    <pubDate>Thu, 10 Apr 2025 11:07:42 -0400</pubDate>
-    <author>David Wicks</author>
-    <guid>http://localhost:1313/posts/administrative-burden/</guid>
-    <description><![CDATA[<h1 id="the-hidden-burden-how-administrative-tasks-drain-pastoral-energy">The Hidden Burden: How Administrative Tasks Drain Pastoral Energy</h1>
-<p>In the quiet hours before dawn, Pastor David sits at his desk reviewing reports, making decisions on facility issues, and finalizing next month&rsquo;s ministry calendar. His sermon preparation—the work he feels truly called to do—sits untouched in the corner.</p>
-<p><em>Ok a little theatric, but not far from the truth on some days.</em></p>
-<p>Despite having dedicated staff and volunteers who handle many day-to-day tasks, this scene plays out in countless churches across the country, where pastors still find themselves shouldering administrative responsibilities that pull them away from their primary calling.</p>]]></description>
-</item>
-<item>
-    <title>Pastoring and AI</title>
-    <link>http://localhost:1313/posts/pastoring-and-ai/</link>
-    <pubDate>Sat, 05 Apr 2025 15:48:55 -0400</pubDate>
-    <author>David Wicks</author>
-    <guid>http://localhost:1313/posts/pastoring-and-ai/</guid>
-    <description><![CDATA[<h1 id="faith-in-the-age-of-ai-can-technology-help-us-shepherd-the-flock">Faith in the Age of AI: Can Technology Help Us Shepherd the Flock?</h1>
-<p>The world is changing at lightning speed, and Artificial Intelligence (AI) is no longer science fiction – it&rsquo;s becoming part of our daily lives. From how we shop to how we get news, AI is everywhere. As people of faith, and particularly as pastors, this rapid advancement prompts important questions: How do we engage with this powerful technology? Can it be a tool for ministry, or does it pose risks we need to carefully consider?</p>]]></description>
-</item>
-<item>
-    <title>Time Blind AI</title>
-    <link>http://localhost:1313/posts/time-blind-ai/</link>
-    <pubDate>Sat, 05 Apr 2025 15:00:56 -0400</pubDate>
-    <author>David Wicks</author>
-    <guid>http://localhost:1313/posts/time-blind-ai/</guid>
-    <description><![CDATA[<h1 id="the-curious-case-of-the-time-blind-ai-lessons-from-building-an-elevenlabs-agent">The Curious Case of the Time-Blind AI: Lessons from Building an ElevenLabs Agent</h1>
-<p>Large language models (LLMs) are amazing, but they have a funny quirk: they don&rsquo;t really understand the passage of time within a conversation. This became super clear when we were developing an AI agent with ElevenLabs. You can learn more about their product here: <a href="https://elevenlabs.io/conversational-ai" target="_blank" rel="noopener noreffer ">ElevenLabs conversational AI agents</a>. I strongly suggest you check them out. It&rsquo;s a pretty amazing service. If you want to sign up, please use <a href="https://try.elevenlabs.io/davidwicks" target="_blank" rel="noopener noreffer ">this link</a>, it will help support me a little bit. In a nutshell, it&rsquo;s an LLM linked with a realistic chatbot. Amazingly realistic! I know it&rsquo;s not the same as a real person, but it can feel very, very real.</p>]]></description>
-</item>
-<item>
-    <title>Hello World</title>
-    <link>http://localhost:1313/posts/my-first-post/</link>
-    <pubDate>Tue, 25 Mar 2025 10:07:55 -0400</pubDate>
-    <author>David Wicks</author>
-    <guid>http://localhost:1313/posts/my-first-post/</guid>
-    <description><![CDATA[<h2 id="introduction">Introduction</h2>
-<p>This is <strong>my first post</strong>. This is <em>gonna</em> be fun. I can&rsquo;t wait to write more.</p>]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David&#39;s site</title>
+    <link>https://davidwicks.site/</link>
+    <description>Recent content on David&#39;s site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>dawicks@gmail.com (David Wicks)</managingEditor>
+    <webMaster>dawicks@gmail.com (David Wicks)</webMaster>
+    <lastBuildDate>Sat, 19 Apr 2025 14:14:48 -0400</lastBuildDate>
+    <atom:link href="https://davidwicks.site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Enhanced Sermon Prep</title>
+      <link>https://davidwicks.site/posts/ai-enhanced-sermon-prep/</link>
+      <pubDate>Sat, 19 Apr 2025 14:14:48 -0400</pubDate><author>dawicks@gmail.com (David Wicks)</author>
+      <guid>https://davidwicks.site/posts/ai-enhanced-sermon-prep/</guid>
+      <description>AI and Sermon Preparation: Navigating the New Frontier Artificial intelligence is advancing at breakneck speed, touching nearly every aspect of our lives, including ministry. For pastors, one of the most intriguing—and perhaps challenging—applications is in sermon preparation.&#xA;Try This First: Experience AI Sermon Generation Before you read any further, I want you to try something. Go to an AI platform like ChatGPT, Claude AI, or Gemini. Copy and paste the following prompt into the chat window and see what happens:</description>
+    </item>
+    <item>
+      <title>Train Yourself to Be Godly</title>
+      <link>https://davidwicks.site/posts/train-yourself/</link>
+      <pubDate>Tue, 15 Apr 2025 09:29:33 -0400</pubDate><author>dawicks@gmail.com (David Wicks)</author>
+      <guid>https://davidwicks.site/posts/train-yourself/</guid>
+      <description>Here is something I&amp;rsquo;ve been thinking about for a long, long time: train yourself to be godly.&#xA;The Common (Flawed) Assumption About Spiritual Growth In my early years, I adopted a view of spiritual growth that goes something like this:&#xA;Say a sinner&amp;rsquo;s prayer Jesus comes into your heart Grow closer to God over time Go to heaven I can&amp;rsquo;t argue with steps one and two. Nor could I argue with steps 3 and 4.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://davidwicks.site/archives/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate><author>dawicks@gmail.com (David Wicks)</author>
+      <guid>https://davidwicks.site/archives/</guid>
+      <description>Welcome to the archives! Here you can find all the posts published on this site. If you would prefer to see the articles according to categories click here.</description>
+    </item>
+    <item>
+      <title>Administrative Burden</title>
+      <link>https://davidwicks.site/posts/administrative-burden/</link>
+      <pubDate>Thu, 10 Apr 2025 11:07:42 -0400</pubDate><author>dawicks@gmail.com (David Wicks)</author>
+      <guid>https://davidwicks.site/posts/administrative-burden/</guid>
+      <description>The Hidden Burden: How Administrative Tasks Drain Pastoral Energy In the quiet hours before dawn, Pastor David sits at his desk reviewing reports, making decisions on facility issues, and finalizing next month&amp;rsquo;s ministry calendar. His sermon preparation—the work he feels truly called to do—sits untouched in the corner.&#xA;Ok a little theatric, but not far from the truth on some days.&#xA;Despite having dedicated staff and volunteers who handle many day-to-day tasks, this scene plays out in countless churches across the country, where pastors still find themselves shouldering administrative responsibilities that pull them away from their primary calling.</description>
+    </item>
+    <item>
+      <title>Pastoring and AI</title>
+      <link>https://davidwicks.site/posts/pastoring-and-ai/</link>
+      <pubDate>Sat, 05 Apr 2025 15:48:55 -0400</pubDate><author>dawicks@gmail.com (David Wicks)</author>
+      <guid>https://davidwicks.site/posts/pastoring-and-ai/</guid>
+      <description>Faith in the Age of AI: Can Technology Help Us Shepherd the Flock? The world is changing at lightning speed, and Artificial Intelligence (AI) is no longer science fiction – it&amp;rsquo;s becoming part of our daily lives. From how we shop to how we get news, AI is everywhere. As people of faith, and particularly as pastors, this rapid advancement prompts important questions: How do we engage with this powerful technology?</description>
+    </item>
+    <item>
+      <title>Time Blind AI</title>
+      <link>https://davidwicks.site/posts/time-blind-ai/</link>
+      <pubDate>Sat, 05 Apr 2025 15:00:56 -0400</pubDate><author>dawicks@gmail.com (David Wicks)</author>
+      <guid>https://davidwicks.site/posts/time-blind-ai/</guid>
+      <description>The Curious Case of the Time-Blind AI: Lessons from Building an ElevenLabs Agent Large language models (LLMs) are amazing, but they have a funny quirk: they don&amp;rsquo;t really understand the passage of time within a conversation. This became super clear when we were developing an AI agent with ElevenLabs. You can learn more about their product here: ElevenLabs conversational AI agents. I strongly suggest you check them out. It&amp;rsquo;s a pretty amazing service.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://davidwicks.site/projects/</link>
+      <pubDate>Mon, 31 Mar 2025 13:00:00 +0000</pubDate><author>dawicks@gmail.com (David Wicks)</author>
+      <guid>https://davidwicks.site/projects/</guid>
+      <description>Here&amp;rsquo;s some other projects I have on the go: OneActionStep.com This is a simple web app I built to help people take action on their goals. Users can create an account, set a goal, and then receive email reminders to take small steps towards that goal. The idea is to make it easy for people to build positive habits and make progress over time. Check it out: One Action Step. The unique thing about this site is that it uses a credit system to encourage users to take action.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://davidwicks.site/contact/</link>
+      <pubDate>Mon, 31 Mar 2025 11:55:00 +0000</pubDate><author>dawicks@gmail.com (David Wicks)</author>
+      <guid>https://davidwicks.site/contact/</guid>
+      <description>Contact me Name: E-mail address: Message: Send </description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://davidwicks.site/partner/</link>
+      <pubDate>Mon, 31 Mar 2025 11:55:00 +0000</pubDate><author>dawicks@gmail.com (David Wicks)</author>
+      <guid>https://davidwicks.site/partner/</guid>
+      <description>Want to work together on something? If you have an idea and you want to make it happen but you just don&amp;rsquo;t know where to start, reach out to me. I&amp;rsquo;ve been a creative thinker who loves to solve problems my whole life. One of my strengths&amp;hellip; and the thing that drives some people crazy about me is that I just don&amp;rsquo;t quit. Reach out to me at contact. I love a challenge.</description>
+    </item>
+    <item>
+      <title>Hello World</title>
+      <link>https://davidwicks.site/posts/my-first-post/</link>
+      <pubDate>Tue, 25 Mar 2025 10:07:55 -0400</pubDate><author>dawicks@gmail.com (David Wicks)</author>
+      <guid>https://davidwicks.site/posts/my-first-post/</guid>
+      <description>Introduction This is my first post. This is gonna be fun. I can&amp;rsquo;t wait to write more.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://davidwicks.site/about/</link>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate><author>dawicks@gmail.com (David Wicks)</author>
+      <guid>https://davidwicks.site/about/</guid>
+      <description>About I am a pastor. I am a hobbyist programer, tinkerer, builder and problem solver. I am also trained as a counselor. I love learning and I love creating new things. I believe the best way to get something working is to just throw something out there, refine, debug and then try again. I love all things creative and truly believe just about anything that can be dreamed up can be created.</description>
+    </item>
+  </channel>
 </rss>

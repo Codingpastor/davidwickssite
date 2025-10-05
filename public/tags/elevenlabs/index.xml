@@ -1,17 +1,21 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Elevenlabs - Tag - David&#39;s site</title>
-        <link>http://localhost:1313/tags/elevenlabs/</link>
-        <description>Elevenlabs - Tag - David&#39;s site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>dawicks@gmail.com (David Wicks)</managingEditor>
-            <webMaster>dawicks@gmail.com (David Wicks)</webMaster><lastBuildDate>Sat, 05 Apr 2025 15:00:56 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/elevenlabs/" rel="self" type="application/rss+xml" /><item>
-    <title>Time Blind AI</title>
-    <link>http://localhost:1313/posts/time-blind-ai/</link>
-    <pubDate>Sat, 05 Apr 2025 15:00:56 -0400</pubDate>
-    <author>David Wicks</author>
-    <guid>http://localhost:1313/posts/time-blind-ai/</guid>
-    <description><![CDATA[<h1 id="the-curious-case-of-the-time-blind-ai-lessons-from-building-an-elevenlabs-agent">The Curious Case of the Time-Blind AI: Lessons from Building an ElevenLabs Agent</h1>
-<p>Large language models (LLMs) are amazing, but they have a funny quirk: they don&rsquo;t really understand the passage of time within a conversation. This became super clear when we were developing an AI agent with ElevenLabs. You can learn more about their product here: <a href="https://elevenlabs.io/conversational-ai" target="_blank" rel="noopener noreffer ">ElevenLabs conversational AI agents</a>. I strongly suggest you check them out. It&rsquo;s a pretty amazing service. If you want to sign up, please use <a href="https://try.elevenlabs.io/davidwicks" target="_blank" rel="noopener noreffer ">this link</a>, it will help support me a little bit. In a nutshell, it&rsquo;s an LLM linked with a realistic chatbot. Amazingly realistic! I know it&rsquo;s not the same as a real person, but it can feel very, very real.</p>]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elevenlabs on David&#39;s site</title>
+    <link>https://davidwicks.site/tags/elevenlabs/</link>
+    <description>Recent content in Elevenlabs on David&#39;s site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>dawicks@gmail.com (David Wicks)</managingEditor>
+    <webMaster>dawicks@gmail.com (David Wicks)</webMaster>
+    <lastBuildDate>Sat, 05 Apr 2025 15:00:56 -0400</lastBuildDate>
+    <atom:link href="https://davidwicks.site/tags/elevenlabs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Time Blind AI</title>
+      <link>https://davidwicks.site/posts/time-blind-ai/</link>
+      <pubDate>Sat, 05 Apr 2025 15:00:56 -0400</pubDate><author>dawicks@gmail.com (David Wicks)</author>
+      <guid>https://davidwicks.site/posts/time-blind-ai/</guid>
+      <description>The Curious Case of the Time-Blind AI: Lessons from Building an ElevenLabs Agent Large language models (LLMs) are amazing, but they have a funny quirk: they don&amp;rsquo;t really understand the passage of time within a conversation. This became super clear when we were developing an AI agent with ElevenLabs. You can learn more about their product here: ElevenLabs conversational AI agents. I strongly suggest you check them out. It&amp;rsquo;s a pretty amazing service.</description>
+    </item>
+  </channel>
 </rss>
