@@ -14,6 +14,10 @@ This is a simple web app I built to help people take action on their goals. User
 
 I built this site for my church to help people track their progress through the Bible over three years. It's not flashy but it works. What's unique about the plan is that it includes weekly readings from the Old and New Testament. For those who find that to be too much, there is an "Old Testament Connection" chapter that picks up on the themes from that week's New Testament reading. Check it out: [Another Take on a Bible Reading Web App](https://readingplan.kzmc.ca).
 
+## A Better World, One Blessing at a Time
+
+This was more of a can I do it kind of project rather than anything that would be "successful." It uses AI to generate a blessing based on a few simple questions. The point? Well... I figured with all the negative crap being generated why not generate something positive. Check it out [here](https://ablessing.org/). I really, really like the animated background on this site. 
+
 ## Simple Bible Reading Web App
 
 I got sick of all the overly complicated and feature rich bible apps out there that either have ads or are trying to promote books or The Chosen series or some other product so I decided to build my own. It's not flashy and not finished, but it works. It's set up for where I currently am in the but I will add some more personalized features in the future. I've got it hard coded for a 3-year bible reading cycle, which is a reasonable pace for me. Let me know what you think: [Dave's Bible Plan](https://bible.davidwicks.site).
