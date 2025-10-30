@@ -1,6 +1,6 @@
 +++
 
-date = '2025-10-30''
+date = '2025-10-30'
 draft = false
 title = 'The Real Cost of Hockey (And Why It's Worth Every Penny)'
 
