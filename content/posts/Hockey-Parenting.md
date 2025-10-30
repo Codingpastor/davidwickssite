@@ -9,11 +9,6 @@ categories = ["hockey","parenting"]
 # Assign tags elevenlabs, life
 tags = ["life"]
 
-
-description: "Reflections on being a hockey parent and why the investment goes far beyond the ice."
-tags: ["parenting", "hockey", "family", "youth sports"]
-categories: ["Family Life"]
-
 +++
 
 I'm currently a parent of three boys in hockey, and I'll be honest—there are times when it feels overwhelming.
