@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technology on David&#39;s site</title>
-    <link>https://davidwicks.site/categories/technology/</link>
+    <link>http://localhost:1313/categories/technology/</link>
     <description>Recent content in Technology on David&#39;s site</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>dawicks@gmail.com (David Wicks)</managingEditor>
     <webMaster>dawicks@gmail.com (David Wicks)</webMaster>
     <lastBuildDate>Thu, 10 Apr 2025 11:07:42 -0400</lastBuildDate>
-    <atom:link href="https://davidwicks.site/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Administrative Burden</title>
-      <link>https://davidwicks.site/posts/administrative-burden/</link>
+      <link>http://localhost:1313/posts/administrative-burden/</link>
       <pubDate>Thu, 10 Apr 2025 11:07:42 -0400</pubDate><author>dawicks@gmail.com (David Wicks)</author>
-      <guid>https://davidwicks.site/posts/administrative-burden/</guid>
-      <description>The Hidden Burden: How Administrative Tasks Drain Pastoral Energy In the quiet hours before dawn, Pastor David sits at his desk reviewing reports, making decisions on facility issues, and finalizing next month&amp;rsquo;s ministry calendar. His sermon preparation—the work he feels truly called to do—sits untouched in the corner.&#xA;Ok a little theatric, but not far from the truth on some days.&#xA;Despite having dedicated staff and volunteers who handle many day-to-day tasks, this scene plays out in countless churches across the country, where pastors still find themselves shouldering administrative responsibilities that pull them away from their primary calling.</description>
+      <guid>http://localhost:1313/posts/administrative-burden/</guid>
+      <description>&lt;h1 id=&#34;the-hidden-burden-how-administrative-tasks-drain-pastoral-energy&#34;&gt;The Hidden Burden: How Administrative Tasks Drain Pastoral Energy&lt;/h1&gt;&#xA;&lt;p&gt;In the quiet hours before dawn, Pastor David sits at his desk reviewing reports, making decisions on facility issues, and finalizing next month&amp;rsquo;s ministry calendar. His sermon preparation—the work he feels truly called to do—sits untouched in the corner.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Ok a little theatric, but not far from the truth on some days.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Despite having dedicated staff and volunteers who handle many day-to-day tasks, this scene plays out in countless churches across the country, where pastors still find themselves shouldering administrative responsibilities that pull them away from their primary calling.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

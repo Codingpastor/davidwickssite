@@ -2,90 +2,97 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David&#39;s site</title>
-    <link>https://davidwicks.site/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on David&#39;s site</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>dawicks@gmail.com (David Wicks)</managingEditor>
     <webMaster>dawicks@gmail.com (David Wicks)</webMaster>
-    <lastBuildDate>Sat, 19 Apr 2025 14:14:48 -0400</lastBuildDate>
-    <atom:link href="https://davidwicks.site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Real Cost of Hockey (And Why it is Worth Every Penny)</title>
+      <link>http://localhost:1313/posts/hockey-parenting/</link>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate><author>dawicks@gmail.com (David Wicks)</author>
+      <guid>http://localhost:1313/posts/hockey-parenting/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m currently a parent of three boys in hockey, and I&amp;rsquo;ll be honest—there are times when it feels overwhelming.&lt;/p&gt;&#xA;&lt;p&gt;The driving. The equipment costs. Gas prices. Meals on the road. Tournament weekends. When I look at it purely from that perspective, I sometimes wonder: &lt;em&gt;What are we doing? Why are we spending all this money as a family?&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-moment-that-changes-everything&#34;&gt;The Moment That Changes Everything&lt;/h2&gt;&#xA;&lt;p&gt;But then I have those moments. I had one just a few nights ago, driving home from a game about an hour away.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>AI Enhanced Sermon Prep</title>
-      <link>https://davidwicks.site/posts/ai-enhanced-sermon-prep/</link>
+      <link>http://localhost:1313/posts/ai-enhanced-sermon-prep/</link>
       <pubDate>Sat, 19 Apr 2025 14:14:48 -0400</pubDate><author>dawicks@gmail.com (David Wicks)</author>
-      <guid>https://davidwicks.site/posts/ai-enhanced-sermon-prep/</guid>
-      <description>AI and Sermon Preparation: Navigating the New Frontier Artificial intelligence is advancing at breakneck speed, touching nearly every aspect of our lives, including ministry. For pastors, one of the most intriguing—and perhaps challenging—applications is in sermon preparation.&#xA;Try This First: Experience AI Sermon Generation Before you read any further, I want you to try something. Go to an AI platform like ChatGPT, Claude AI, or Gemini. Copy and paste the following prompt into the chat window and see what happens:</description>
+      <guid>http://localhost:1313/posts/ai-enhanced-sermon-prep/</guid>
+      <description>&lt;h1 id=&#34;ai-and-sermon-preparation-navigating-the-new-frontier&#34;&gt;AI and Sermon Preparation: Navigating the New Frontier&lt;/h1&gt;&#xA;&lt;p&gt;Artificial intelligence is advancing at breakneck speed, touching nearly every aspect of our lives, including ministry. For pastors, one of the most intriguing—and perhaps challenging—applications is in sermon preparation.&lt;/p&gt;&#xA;&lt;h2 id=&#34;try-this-first-experience-ai-sermon-generation&#34;&gt;Try This First: Experience AI Sermon Generation&lt;/h2&gt;&#xA;&lt;p&gt;Before you read any further, I want you to try something. Go to an AI platform like &lt;a href=&#34;https://chatgpt.com/&#34;&gt;ChatGPT&lt;/a&gt;, &lt;a href=&#34;https://claude.ai/&#34;&gt;Claude AI&lt;/a&gt;, or &lt;a href=&#34;https://gemini.google.com/&#34;&gt;Gemini&lt;/a&gt;. Copy and paste the following prompt into the chat window and see what happens:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Train Yourself to Be Godly</title>
-      <link>https://davidwicks.site/posts/train-yourself/</link>
+      <link>http://localhost:1313/posts/train-yourself/</link>
       <pubDate>Tue, 15 Apr 2025 09:29:33 -0400</pubDate><author>dawicks@gmail.com (David Wicks)</author>
-      <guid>https://davidwicks.site/posts/train-yourself/</guid>
-      <description>Here is something I&amp;rsquo;ve been thinking about for a long, long time: train yourself to be godly.&#xA;The Common (Flawed) Assumption About Spiritual Growth In my early years, I adopted a view of spiritual growth that goes something like this:&#xA;Say a sinner&amp;rsquo;s prayer Jesus comes into your heart Grow closer to God over time Go to heaven I can&amp;rsquo;t argue with steps one and two. Nor could I argue with steps 3 and 4.</description>
+      <guid>http://localhost:1313/posts/train-yourself/</guid>
+      <description>&lt;p&gt;Here is something I&amp;rsquo;ve been thinking about for a long, long time: train yourself to be godly.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-common-flawed-assumption-about-spiritual-growth&#34;&gt;The Common (Flawed) Assumption About Spiritual Growth&lt;/h2&gt;&#xA;&lt;p&gt;In my early years, I adopted a view of spiritual growth that goes something like this:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Say a sinner&amp;rsquo;s prayer&lt;/li&gt;&#xA;&lt;li&gt;Jesus comes into your heart&lt;/li&gt;&#xA;&lt;li&gt;Grow closer to God over time&lt;/li&gt;&#xA;&lt;li&gt;Go to heaven&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;I can&amp;rsquo;t argue with steps one and two. Nor could I argue with steps 3 and 4. However, step three is based on a major assumption—that it happens &lt;em&gt;naturally&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://davidwicks.site/archives/</link>
+      <link>http://localhost:1313/archives/</link>
       <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate><author>dawicks@gmail.com (David Wicks)</author>
-      <guid>https://davidwicks.site/archives/</guid>
-      <description>Welcome to the archives! Here you can find all the posts published on this site. If you would prefer to see the articles according to categories click here.</description>
+      <guid>http://localhost:1313/archives/</guid>
+      <description>&lt;h2 id=&#34;welcome-to-the-archives-here-you-can-find-all-the-posts-published-on-this-site&#34;&gt;Welcome to the archives! Here you can find all the posts published on this site.&lt;/h2&gt;&#xA;&lt;p&gt;If you would prefer to see the articles according to categories click &lt;a href=&#34;http://localhost:1313/categories/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Administrative Burden</title>
-      <link>https://davidwicks.site/posts/administrative-burden/</link>
+      <link>http://localhost:1313/posts/administrative-burden/</link>
       <pubDate>Thu, 10 Apr 2025 11:07:42 -0400</pubDate><author>dawicks@gmail.com (David Wicks)</author>
-      <guid>https://davidwicks.site/posts/administrative-burden/</guid>
-      <description>The Hidden Burden: How Administrative Tasks Drain Pastoral Energy In the quiet hours before dawn, Pastor David sits at his desk reviewing reports, making decisions on facility issues, and finalizing next month&amp;rsquo;s ministry calendar. His sermon preparation—the work he feels truly called to do—sits untouched in the corner.&#xA;Ok a little theatric, but not far from the truth on some days.&#xA;Despite having dedicated staff and volunteers who handle many day-to-day tasks, this scene plays out in countless churches across the country, where pastors still find themselves shouldering administrative responsibilities that pull them away from their primary calling.</description>
+      <guid>http://localhost:1313/posts/administrative-burden/</guid>
+      <description>&lt;h1 id=&#34;the-hidden-burden-how-administrative-tasks-drain-pastoral-energy&#34;&gt;The Hidden Burden: How Administrative Tasks Drain Pastoral Energy&lt;/h1&gt;&#xA;&lt;p&gt;In the quiet hours before dawn, Pastor David sits at his desk reviewing reports, making decisions on facility issues, and finalizing next month&amp;rsquo;s ministry calendar. His sermon preparation—the work he feels truly called to do—sits untouched in the corner.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Ok a little theatric, but not far from the truth on some days.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Despite having dedicated staff and volunteers who handle many day-to-day tasks, this scene plays out in countless churches across the country, where pastors still find themselves shouldering administrative responsibilities that pull them away from their primary calling.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pastoring and AI</title>
-      <link>https://davidwicks.site/posts/pastoring-and-ai/</link>
+      <link>http://localhost:1313/posts/pastoring-and-ai/</link>
       <pubDate>Sat, 05 Apr 2025 15:48:55 -0400</pubDate><author>dawicks@gmail.com (David Wicks)</author>
-      <guid>https://davidwicks.site/posts/pastoring-and-ai/</guid>
-      <description>Faith in the Age of AI: Can Technology Help Us Shepherd the Flock? The world is changing at lightning speed, and Artificial Intelligence (AI) is no longer science fiction – it&amp;rsquo;s becoming part of our daily lives. From how we shop to how we get news, AI is everywhere. As people of faith, and particularly as pastors, this rapid advancement prompts important questions: How do we engage with this powerful technology?</description>
+      <guid>http://localhost:1313/posts/pastoring-and-ai/</guid>
+      <description>&lt;h1 id=&#34;faith-in-the-age-of-ai-can-technology-help-us-shepherd-the-flock&#34;&gt;Faith in the Age of AI: Can Technology Help Us Shepherd the Flock?&lt;/h1&gt;&#xA;&lt;p&gt;The world is changing at lightning speed, and Artificial Intelligence (AI) is no longer science fiction – it&amp;rsquo;s becoming part of our daily lives. From how we shop to how we get news, AI is everywhere. As people of faith, and particularly as pastors, this rapid advancement prompts important questions: How do we engage with this powerful technology? Can it be a tool for ministry, or does it pose risks we need to carefully consider?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Time Blind AI</title>
-      <link>https://davidwicks.site/posts/time-blind-ai/</link>
+      <link>http://localhost:1313/posts/time-blind-ai/</link>
       <pubDate>Sat, 05 Apr 2025 15:00:56 -0400</pubDate><author>dawicks@gmail.com (David Wicks)</author>
-      <guid>https://davidwicks.site/posts/time-blind-ai/</guid>
-      <description>The Curious Case of the Time-Blind AI: Lessons from Building an ElevenLabs Agent Large language models (LLMs) are amazing, but they have a funny quirk: they don&amp;rsquo;t really understand the passage of time within a conversation. This became super clear when we were developing an AI agent with ElevenLabs. You can learn more about their product here: ElevenLabs conversational AI agents. I strongly suggest you check them out. It&amp;rsquo;s a pretty amazing service.</description>
+      <guid>http://localhost:1313/posts/time-blind-ai/</guid>
+      <description>&lt;h1 id=&#34;the-curious-case-of-the-time-blind-ai-lessons-from-building-an-elevenlabs-agent&#34;&gt;The Curious Case of the Time-Blind AI: Lessons from Building an ElevenLabs Agent&lt;/h1&gt;&#xA;&lt;p&gt;Large language models (LLMs) are amazing, but they have a funny quirk: they don&amp;rsquo;t really understand the passage of time within a conversation. This became super clear when we were developing an AI agent with ElevenLabs. You can learn more about their product here: &lt;a href=&#34;https://elevenlabs.io/conversational-ai&#34;&gt;ElevenLabs conversational AI agents&lt;/a&gt;. I strongly suggest you check them out. It&amp;rsquo;s a pretty amazing service. If you want to sign up, please use &lt;a href=&#34;https://try.elevenlabs.io/davidwicks&#34;&gt;this link&lt;/a&gt;, it will help support me a little bit. In a nutshell, it&amp;rsquo;s an LLM linked with a realistic chatbot. Amazingly realistic! I know it&amp;rsquo;s not the same as a real person, but it can feel very, very real.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://davidwicks.site/projects/</link>
+      <link>http://localhost:1313/projects/</link>
       <pubDate>Mon, 31 Mar 2025 13:00:00 +0000</pubDate><author>dawicks@gmail.com (David Wicks)</author>
-      <guid>https://davidwicks.site/projects/</guid>
-      <description>Here&amp;rsquo;s some other projects I have on the go: OneActionStep.com This is a simple web app I built to help people take action on their goals. Users can create an account, set a goal, and then receive email reminders to take small steps towards that goal. The idea is to make it easy for people to build positive habits and make progress over time. Check it out: One Action Step. The unique thing about this site is that it uses a credit system to encourage users to take action.</description>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h1 id=&#34;heres-some-other-projects-i-have-on-the-go&#34;&gt;Here&amp;rsquo;s some other projects I have on the go:&lt;/h1&gt;&#xA;&lt;h2 id=&#34;boomintrocom&#34;&gt;BoomIntro.com&lt;/h2&gt;&#xA;&lt;p&gt;I built this site to help people create engaging sports intros using AI. Users can input their team roster, choice of music and some other preferences, and the AI generates a custom intro in less than a minute. Check it out: &lt;a href=&#34;https://boomintro.com&#34;&gt;BoomIntro&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m really proud of this site and feel like it offers something helpful to sports teams (parents) and organizations looking to create professional-quality intros without the high cost or time commitment of traditional recordings. I mean, who wouldn&amp;rsquo;t want a hype intro for their team?&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://davidwicks.site/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 31 Mar 2025 11:55:00 +0000</pubDate><author>dawicks@gmail.com (David Wicks)</author>
-      <guid>https://davidwicks.site/contact/</guid>
-      <description>Contact me Name: E-mail address: Message: Send </description>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h1 id=&#34;contact-me&#34;&gt;Contact me&lt;/h1&gt;&#xA;&lt;form method=&#34;post&#34; action=&#34;https://forms.un-static.com/forms/50c23501289f089f5a047a6ad15136475019a320&#34; style=&#34;width: 100%;&#34;&gt;&#xD;&#xA;  &lt;div class=&#34;form-group row&#34;&gt;&#xD;&#xA;    &lt;label for=&#34;name&#34; class=&#34;col-4 col-form-label&#34;&gt;Name:&lt;/label&gt;&#xD;&#xA;    &lt;div class=&#34;col-28&#34;&gt;&#xD;&#xA;      &lt;div class=&#34;input-group&#34;&gt;&#xD;&#xA;        &lt;input id=&#34;name&#34; name=&#34;name&#34; placeholder=&#34;Please enter your name&#34; type=&#34;text&#34; required=&#34;required&#34; class=&#34;form-control&#34;&gt;&#xD;&#xA;      &lt;/div&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;  &lt;br&gt;&#xD;&#xA;  &lt;div class=&#34;form-group row&#34;&gt;&#xD;&#xA;    &lt;label for=&#34;email&#34; class=&#34;col-4 col-form-label&#34;&gt;E-mail address:&lt;/label&gt;&#xD;&#xA;    &lt;div class=&#34;col-8&#34;&gt;&#xD;&#xA;      &lt;div class=&#34;input-group&#34;&gt;&#xD;&#xA;        &lt;input id=&#34;email&#34; name=&#34;email&#34; placeholder=&#34;Your e-mail address&#34; type=&#34;text&#34; required=&#34;required&#34; class=&#34;form-control&#34;&gt;&#xD;&#xA;      &lt;/div&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;  &lt;br&gt;&#xD;&#xA;  &lt;div class=&#34;form-group&#34;&gt;&#xD;&#xA;    &lt;label for=&#34;message&#34;&gt;Message:&lt;/label&gt;&#xD;&#xA;    &lt;textarea id=&#34;message&#34; name=&#34;message&#34; rows=&#34;10&#34; required=&#34;required&#34; class=&#34;form-control&#34; style=&#34;width: 100%; box-sizing: border-box;&#34;&gt;&lt;/textarea&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;  &lt;br&gt;&#xD;&#xA;  &lt;div class=&#34;form-group row&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;offset-4 col-8&#34;&gt;&#xD;&#xA;      &lt;button name=&#34;submit&#34; type=&#34;submit&#34; class=&#34;btn&#34; style=&#34;background-color: #000000; color: white; border: none; padding: 12px 28px; border-radius: 6px; font-weight: 500; transition: all 0.3s ease; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);&#34;&gt;Send&lt;/button&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;  &lt;!--&#xD;&#xA;  &lt;div class=&#34;text-center&#34;&gt;&#xD;&#xA;    &lt;p&gt;&lt;small&gt;(Powered by &lt;a rel=&#34;nofollow&#34; href=&#34;Un-static Forms&#34;&gt;Un-static Forms&lt;/a&gt;)&lt;/small&gt;&lt;/p&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;  --&gt;&#xD;&#xA;&lt;/form&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://davidwicks.site/partner/</link>
+      <link>http://localhost:1313/partner/</link>
       <pubDate>Mon, 31 Mar 2025 11:55:00 +0000</pubDate><author>dawicks@gmail.com (David Wicks)</author>
-      <guid>https://davidwicks.site/partner/</guid>
-      <description>Want to work together on something? If you have an idea and you want to make it happen but you just don&amp;rsquo;t know where to start, reach out to me. I&amp;rsquo;ve been a creative thinker who loves to solve problems my whole life. One of my strengths&amp;hellip; and the thing that drives some people crazy about me is that I just don&amp;rsquo;t quit. Reach out to me at contact. I love a challenge.</description>
+      <guid>http://localhost:1313/partner/</guid>
+      <description>&lt;h1 id=&#34;want-to-work-together-on-something&#34;&gt;Want to work together on something?&lt;/h1&gt;&#xA;&lt;p&gt;If you have an idea and you want to make it happen but you just don&amp;rsquo;t know where to start, reach out to me. I&amp;rsquo;ve been a creative thinker who loves to solve problems my whole life. One of my strengths&amp;hellip; and the thing that drives some people crazy about me is that I just don&amp;rsquo;t quit. Reach out to me at &lt;a href=&#34;http://localhost:1313/contact/&#34;&gt;contact&lt;/a&gt;. I love a challenge.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hello World</title>
-      <link>https://davidwicks.site/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Tue, 25 Mar 2025 10:07:55 -0400</pubDate><author>dawicks@gmail.com (David Wicks)</author>
-      <guid>https://davidwicks.site/posts/my-first-post/</guid>
-      <description>Introduction This is my first post. This is gonna be fun. I can&amp;rsquo;t wait to write more.</description>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;my first post&lt;/strong&gt;. This is &lt;em&gt;gonna&lt;/em&gt; be fun. I can&amp;rsquo;t wait to write more.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://davidwicks.site/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate><author>dawicks@gmail.com (David Wicks)</author>
-      <guid>https://davidwicks.site/about/</guid>
-      <description>About I am a pastor. I am a hobbyist programer, tinkerer, builder and problem solver. I am also trained as a counselor. I love learning and I love creating new things. I believe the best way to get something working is to just throw something out there, refine, debug and then try again. I love all things creative and truly believe just about anything that can be dreamed up can be created.</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;&#xA;&lt;p&gt;I am a pastor. I am a hobbyist programer, tinkerer, builder and problem solver. I am also trained as a counselor. I love learning and I love creating new things. I believe the best way to get something working is to just throw something out there, refine, debug and then try again. I love all things creative and truly believe just about anything that can be dreamed up can be created.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

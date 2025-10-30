@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Training on David&#39;s site</title>
-    <link>https://davidwicks.site/tags/training/</link>
+    <link>http://localhost:1313/tags/training/</link>
     <description>Recent content in Training on David&#39;s site</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>dawicks@gmail.com (David Wicks)</managingEditor>
     <webMaster>dawicks@gmail.com (David Wicks)</webMaster>
     <lastBuildDate>Tue, 15 Apr 2025 09:29:33 -0400</lastBuildDate>
-    <atom:link href="https://davidwicks.site/tags/training/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/training/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Train Yourself to Be Godly</title>
-      <link>https://davidwicks.site/posts/train-yourself/</link>
+      <link>http://localhost:1313/posts/train-yourself/</link>
       <pubDate>Tue, 15 Apr 2025 09:29:33 -0400</pubDate><author>dawicks@gmail.com (David Wicks)</author>
-      <guid>https://davidwicks.site/posts/train-yourself/</guid>
-      <description>Here is something I&amp;rsquo;ve been thinking about for a long, long time: train yourself to be godly.&#xA;The Common (Flawed) Assumption About Spiritual Growth In my early years, I adopted a view of spiritual growth that goes something like this:&#xA;Say a sinner&amp;rsquo;s prayer Jesus comes into your heart Grow closer to God over time Go to heaven I can&amp;rsquo;t argue with steps one and two. Nor could I argue with steps 3 and 4.</description>
+      <guid>http://localhost:1313/posts/train-yourself/</guid>
+      <description>&lt;p&gt;Here is something I&amp;rsquo;ve been thinking about for a long, long time: train yourself to be godly.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-common-flawed-assumption-about-spiritual-growth&#34;&gt;The Common (Flawed) Assumption About Spiritual Growth&lt;/h2&gt;&#xA;&lt;p&gt;In my early years, I adopted a view of spiritual growth that goes something like this:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Say a sinner&amp;rsquo;s prayer&lt;/li&gt;&#xA;&lt;li&gt;Jesus comes into your heart&lt;/li&gt;&#xA;&lt;li&gt;Grow closer to God over time&lt;/li&gt;&#xA;&lt;li&gt;Go to heaven&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;I can&amp;rsquo;t argue with steps one and two. Nor could I argue with steps 3 and 4. However, step three is based on a major assumption—that it happens &lt;em&gt;naturally&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
