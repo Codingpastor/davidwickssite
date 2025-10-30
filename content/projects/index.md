@@ -8,7 +8,7 @@ draft: false
 
 ## BoomIntro.com
 
-I built this site to help people create engaging sports intros using AI. Users can input their team roster, choice of music and some other preferences, and the AI generates a custom intro in less than a minute. Check it out: [Boom Intro](https://boomintro.com).
+I built this site to help people create engaging sports intros using AI. Users can input their team roster, choice of music and some other preferences, and the AI generates a custom intro in less than a minute. Check it out: [BoomIntro](https://boomintro.com).
 
 I'm really proud of this site and feel like it offers something helpful to sports teams (parents) and organizations looking to create professional-quality intros without the high cost or time commitment of traditional recordings. I mean, who wouldn't want a hype intro for their team?
 
