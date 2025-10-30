@@ -2,7 +2,7 @@
 
 date = '2025-10-30'
 draft = false
-title = 'The Real Cost of Hockey (And Why It\'s Worth Every Penny)'
+title = 'The Real Cost of Hockey (And Why it is Worth Every Penny)'
 
 # Assign categories AI, technology, faith, pastoring, hockey, parenting, other
 categories = ["hockey","parenting"]

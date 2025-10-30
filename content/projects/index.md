@@ -6,6 +6,12 @@ draft: false
 
 # Here's some other projects I have on the go:
 
+## BoomIntro.com
+
+I built this site to help people create engaging sports intros using AI. Users can input their team roster, choice of music and some other preferences, and the AI generates a custom intro in less than a minute. Check it out: [Boom Intro](https://boomintro.com).
+
+I'm really proud of this site and feel like it offers something helpful to sports teams (parents) and organizations looking to create professional-quality intros without the high cost or time commitment of traditional recordings. I mean, who wouldn't want a hype intro for their team?
+
 ## OneActionStep.com
 
 This is a simple web app I built to help people take action on their goals. Users can create an account, set a goal, and then receive email reminders to take small steps towards that goal. The idea is to make it easy for people to build positive habits and make progress over time. Check it out: [One Action Step](https://oneactionstep.com). The unique thing about this site is that it uses a credit system to encourage users to take action. Users stake credits on an action, and lose them if they do not follow through. It's a simple but effective way to build accountability. The site actually helped me build the site itself. 
