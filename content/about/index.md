@@ -6,7 +6,21 @@ draft: false
 
 # About
 
-I am a pastor. I am a hobbyist programer, tinkerer, builder and problem solver. I am also trained as a counselor. I love learning and I love creating new things. I believe the best way to get something working is to just throw something out there, refine, debug and then try again. I love all things creative and truly believe just about anything that can be dreamed up can be created.
+## Who I Am
+
+I'm a pastor, developer, builder, and creator who loves solving problems. With training as a counselor and a background in molecular biology, I've spent my life combining technical skills with people skills.
+
+**What I do:**
+- **Custom Software Development** – Building web apps, automation tools, and digital solutions
+- **Physical Repairs & Fabrication** – Fixing vintage electronics, building furniture, and creating custom solutions
+- **Counseling & Consulting** – Helping people and organizations work through challenges
+- **Problem-Solving** – If you can imagine it, I can probably figure out how to build it
+
+I believe the best way to get something working is to throw something out there, refine it, debug, and try again. I love learning, creating new things, and truly believe just about anything that can be dreamed up can be created.
+
+**Interested in working together?** Check out my [services](/services/) or [contact me](/contact/) to discuss your project.
+
+---
 
 Here's my resume:
 

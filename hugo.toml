@@ -27,7 +27,7 @@ theme = 'loveit'
   title = "David Wicks AI and Pastoring Blog"
   # website description for RSS, SEO, Open Graph and Twitter Cards
   # 网站描述, 用于 RSS, SEO, Open Graph 和 Twitter Cards
-  description = "I'm interested in AI, technology, faith and in becoming a better pastor. I'm even more interested in how these can meet. And well, a whole bunch of other stuff. I'd love to help you make your idea a reality. This site is a blog and a place where I share my ideas."
+  description = "Pastor, developer, builder, and problem-solver. I'm interested in AI, technology, faith, and creating solutions. From custom software to physical repairs, I help turn ideas into reality. This site is a blog where I share insights and a place where I showcase what I build."
   # website images for Open Graph and Twitter Cards
   # 网站图片, 用于 Open Graph 和 Twitter Cards
   images = []
@@ -192,7 +192,7 @@ theme = 'loveit'
       title = "Welcome."
       # subtitle shown in home page (HTML format is supported)
       # 主页显示的网站副标题 (允许 HTML 格式)
-      subtitle = "A place where I share my ideas."
+      subtitle = "Pastor. Coder. Builder. Creator. Problem-solver."
       # whether to use typeit animation for subtitle
       # 是否为副标题显示打字机动画
       typeit = true
@@ -201,7 +201,7 @@ theme = 'loveit'
       social = true
       # disclaimer (HTML format is supported)
       # 免责声明 (支持 HTML 格式)
-      disclaimer = """I am interested in AI, technology, faith and in becoming a better pastor. I'm even more interested in how these can meet. And well, a whole bunch of other stuff. I'd love to help you make your idea a reality, please <a href="/contact/">contact me</a>!"""
+      disclaimer = """Pastor. Coder. Builder. Creator. I'm passionate about AI, technology, faith, and solving problems. From custom software development to physical repairs and fabrication, I help turn ideas into reality. Need something built? <a href="/services/">See what I can do</a> or <a href="/contact/">let's talk</a>!"""
     # Home page posts
     # 主页文章列表
     [params.home.posts]
