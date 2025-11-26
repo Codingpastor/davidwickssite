@@ -649,6 +649,12 @@ theme = 'loveit'
   # series = "series"
 
 [menu]
+
+[[menu.main]]
+  name = "Services"
+  pre = "<i class='fas fa-wrench'></i>"
+  url = "/services/"
+  weight = 1.5
   [[menu.main]]
     name = "About"
     pre = "<i class='fas fa-address-card'></i>"

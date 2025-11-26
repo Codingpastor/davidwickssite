@@ -8,8 +8,15 @@
     <language>en-us</language>
     <managingEditor>dawicks@gmail.com (David Wicks)</managingEditor>
     <webMaster>dawicks@gmail.com (David Wicks)</webMaster>
-    <lastBuildDate>Thu, 30 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Services</title>
+      <link>http://localhost:1313/services/</link>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate><author>dawicks@gmail.com (David Wicks)</author>
+      <guid>http://localhost:1313/services/</guid>
+      <description>&lt;h1 id=&#34;what-i-can-build-for-you&#34;&gt;What I Can Build For You&lt;/h1&gt;&#xA;&lt;p&gt;Most developers say &amp;ldquo;we don&amp;rsquo;t do that.&amp;rdquo; I say &amp;ldquo;let&amp;rsquo;s figure it out.&amp;rdquo; From custom software to physical repairs - if you can imagine it or it&amp;rsquo;s broken, I can help.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;digital-solutions&#34;&gt;Digital Solutions&lt;/h2&gt;&#xA;&lt;h3 id=&#34;quick-fix--500&#34;&gt;Quick Fix (-500)&lt;/h3&gt;&#xA;&lt;p&gt;Small tweaks, bug fixes, automation scripts, simple websites&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1-3 hours of work&lt;/li&gt;&#xA;&lt;li&gt;Fast turnaround (1-3 days)&lt;/li&gt;&#xA;&lt;li&gt;Perfect for simple needs&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/contact/&#34;&gt;Get a Quote&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;discovery-session--500&#34;&gt;Discovery Session (-500)&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;90-minute brainstorming &amp;amp; solution design session&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The Real Cost of Hockey (And Why it is Worth Every Penny)</title>
       <link>http://localhost:1313/posts/hockey-parenting/</link>
