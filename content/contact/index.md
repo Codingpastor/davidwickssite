@@ -25,16 +25,19 @@ I'm here to figure it out with you.
 
 ## Contact Information
 
- **Email:** dawicks@gmail.com  
- **Phone:** 1-306-589-9020  
- **Location:** Zurich, Ontario, Canada
- **Response Time:** Usually within 24 hours
+📧 **Email:** dawicks@gmail.com  
+📞 **Phone:** 1-306-589-9020  
+📍 **Location:** Zurich, Ontario, Canada  
+⏱️ **Response Time:** Usually within 24 hours
 
 ---
 
 ## Send Me a Message
 
 <form method="post" action="https://forms.un-static.com/forms/50c23501289f089f5a047a6ad15136475019a320" style="width: 100%; max-width: 600px;">
+  
+  <!-- Hidden field to identify form source -->
+  <input type="hidden" name="source" value="davidwicks.site - Contact Page">
   
   <div class="form-group row" style="margin-bottom: 1.5rem;">
     <label for="name" class="col-form-label" style="font-weight: 600; margin-bottom: 0.5rem;">Your Name *</label>

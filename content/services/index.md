@@ -79,7 +79,7 @@ Great for organizations needing regular tech support and development.
 ##  Physical Repairs & Creation
 
 ### Expert Repairs
-**Fix almost anything mechanical, electrical, or structural**
+**Fix almost anything mechanical, electrical, or structural.**
 **For stuff you just can't find any other place to fix!**
 
 - Vintage electronics (jukeboxes, radios, turntables)
