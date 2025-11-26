@@ -57,9 +57,6 @@ Ideal for entrepreneurs wanting to validate an idea before full investment.
 ### Full Custom Build (~$10K)
 **Production-ready solutions, 4-8 weeks**
 - Complete custom applications
-- Scalable architecture
-- Ongoing support available
-- Training & documentation
 
 For serious projects that need professional, long-term solutions.
 
@@ -67,7 +64,7 @@ For serious projects that need professional, long-term solutions.
 
 ---
 
-### Retainer (~$2K/month)
+### Retainer (~$1K/month)
 **Ongoing support & development**
 - Priority access to my time
 - Monthly development hours
@@ -125,6 +122,8 @@ Great for organizations needing regular tech support and development.
 - Tech + craftsmanship
 
 The best of both worlds.
+
+**Quote-based pricing**
 
 [Tell Me Your Idea ](/contact/)
 

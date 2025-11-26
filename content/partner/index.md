@@ -16,36 +16,24 @@ Whether it's a custom software project, a technical challenge, or something that
 
 **I have a heart for helping ministries, churches, and non-profit organizations.** 
 
-Too often, smaller organizations face technical challenges but lack the budget for professional help. I understand that, having served in ministry for over a decade. That's why I offer special support for non-profits:
+Too often, smaller organizations face technical challenges but lack the budget for professional help. I understand that, having served in ministry for over a decade. That's why I offer special support for non-profits.
 
 ### What I Offer Non-Profits:
 
 **Free Consultation & Planning**
 - Discovery sessions to understand your needs
-- Technical feasibility assessments
 - Strategic planning for digital initiatives
 - No-cost brainstorming and problem-solving
 
 **Discounted Development Services**
-- Significantly reduced rates for custom software
+- Significantly reduced rates
 - Website development and maintenance
-- Automation tools to save staff time
-- Database and system setup
 
 **Pro Bono Work (When Available)**
 - Small technical fixes and troubleshooting
 - Website updates and maintenance
 - Training and support for your team
 - Emergency technical assistance
-
-### Types of Projects I Love:
-
-- **Church management systems** - Custom tools for volunteer scheduling, member management, or communication
-- **Donation platforms** - Streamlined giving solutions
-- **Event registration systems** - Managing camps, conferences, or community events
-- **Educational tools** - Resources for teaching, discipleship, or training
-- **Outreach automation** - Systems to help you reach more people effectively
-- **Data migration** - Moving from old systems to new platforms
 
 ### My Commitment:
 
@@ -69,7 +57,7 @@ But here's the thing: I care more about building great things and partnering on 
 
 **Creative Problem-Solving** - I've spent my life finding solutions where others see dead ends. I love the challenge of figuring out what others say can't be done.
 
-**Diverse Experience** - From molecular biology to pastoral ministry, from counseling to coding, my varied background means I approach problems from unique angles.
+**Diverse Experience** - From molecular biology to pastoral ministry, from counseling to coding, from welding to sewing, my varied background means I approach problems from unique angles.
 
 **Genuine Care** - Whether you're a church on a shoestring budget or a business with resources, I invest personally in seeing your project succeed.
 

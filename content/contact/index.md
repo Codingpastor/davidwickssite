@@ -26,8 +26,8 @@ I'm here to figure it out with you.
 ## Contact Information
 
  **Email:** dawicks@gmail.com  
- **Phone:** Available upon request  
- **Location:** Available for local physical repairs  
+ **Phone:** 1-306-589-9020  
+ **Location:** Zurich, Ontario, Canada
  **Response Time:** Usually within 24 hours
 
 ---
