@@ -12,7 +12,7 @@ I'm a pastor, developer, builder, and creator who loves solving problems. With t
 
 **What I do:**
 - **Custom Software Development** – Building web apps, automation tools, and digital solutions
-- **Physical Repairs & Fabrication** – Fixing vintage electronics, building furniture, and creating custom solutions
+- **Physical Repairs & Fabrication** – Fixing vintage electronics, building furniture, welding projects, and creating custom solutions
 - **Counseling & Consulting** – Helping people and organizations work through challenges
 - **Problem-Solving** – If you can imagine it, I can probably figure out how to build it
 

@@ -18,7 +18,7 @@ Most developers say "we don't do that." I say "let's figure it out." From custom
 
 ##  Digital Solutions
 
-### Quick Fix (\-500)
+### Quick Fix (~$100)
 Small tweaks, bug fixes, automation scripts, simple websites
 - 1-3 hours of work
 - Fast turnaround (1-3 days)
@@ -28,7 +28,7 @@ Small tweaks, bug fixes, automation scripts, simple websites
 
 ---
 
-### Discovery Session (\-500) 
+### Discovery Session (~$200) 
 **90-minute brainstorming & solution design session**
 - Deep-dive problem analysis
 - Multiple solution approaches
@@ -41,20 +41,20 @@ Perfect when you have an idea but need help figuring out how to make it real.
 
 ---
 
-### Rapid Prototype (\-7K)
+### Rapid Prototype (~$1-2K)
 **Working MVP in 1-2 weeks**
 - Proof-of-concept builds
 - Test your idea quickly
 - Web apps, tools, systems
 - Includes basic documentation
 
-Ideal for entrepreneurs and churches wanting to validate an idea before full investment.
+Ideal for entrepreneurs wanting to validate an idea before full investment.
 
 [Let's Build ](/contact/)
 
 ---
 
-### Full Custom Build (\-30K+)
+### Full Custom Build (~$10K)
 **Production-ready solutions, 4-8 weeks**
 - Complete custom applications
 - Scalable architecture
@@ -67,11 +67,10 @@ For serious projects that need professional, long-term solutions.
 
 ---
 
-### Retainer (\-5K/month)
+### Retainer (~$2K/month)
 **Ongoing support & development**
 - Priority access to my time
 - Monthly development hours
-- Maintenance & updates
 - Strategic consulting
 
 Great for organizations needing regular tech support and development.
@@ -84,14 +83,16 @@ Great for organizations needing regular tech support and development.
 
 ### Expert Repairs
 **Fix almost anything mechanical, electrical, or structural**
+**For stuff you just can't find any other place to fix!**
 
 - Vintage electronics (jukeboxes, radios, turntables)
 - Appliance repair & troubleshooting
 - Furniture restoration
 - Mechanical devices
 - Musical equipment
+- Bicycles
 
-**Starting at \/hour + parts**
+**Starting at $45/hour + parts**
 
 * Local service (in-person)*
 
@@ -102,10 +103,12 @@ Great for organizations needing regular tech support and development.
 ### Custom Fabrication
 **Build physical solutions for your unique needs**
 
-- Custom furniture & storage
+- Custom furniture & storage & other stuff
+- Welding projects (steel, MIG))
 - Home organization systems
 - Workshop tools & jigs
 - Prototype physical products
+- One off, crazy ideas
 
 **Quote-based pricing**
 
@@ -139,7 +142,7 @@ Trained as a counselor and pastor - I listen well, explain clearly, and genuinel
 From quick fixes to major builds, I work at the pace your project needs with transparent timelines.
 
 ###  Full Stack Life
-Code, carpentry, counseling - my diverse skills mean I see solutions others miss.
+Code, carpentry, counseling, welding - my diverse skills mean I see solutions others miss.
 
 ---
 
