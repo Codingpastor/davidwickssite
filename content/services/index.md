@@ -54,16 +54,6 @@ Ideal for entrepreneurs wanting to validate an idea before full investment.
 
 ---
 
-### Full Custom Build (~$10K)
-**Production-ready solutions, 4-8 weeks**
-- Complete custom applications
-
-For serious projects that need professional, long-term solutions.
-
-[Start Project ](/contact/)
-
----
-
 ### Retainer (~$1K/month)
 **Ongoing support & development**
 - Priority access to my time
@@ -87,7 +77,7 @@ Great for organizations needing regular tech support and development.
 - Furniture restoration
 - Mechanical devices
 - Musical equipment
-- Bicycles
+- Bicycles, go-karts, and just about anything else with wheels or an engine!
 
 **Starting at $45/hour + parts**
 
