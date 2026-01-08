@@ -1,21 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Christianity on David&#39;s site</title>
-    <link>http://localhost:1313/tags/christianity/</link>
-    <description>Recent content in Christianity on David&#39;s site</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <managingEditor>dawicks@gmail.com (David Wicks)</managingEditor>
-    <webMaster>dawicks@gmail.com (David Wicks)</webMaster>
-    <lastBuildDate>Tue, 15 Apr 2025 09:29:33 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/christianity/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Train Yourself to Be Godly</title>
-      <link>http://localhost:1313/posts/train-yourself/</link>
-      <pubDate>Tue, 15 Apr 2025 09:29:33 -0400</pubDate><author>dawicks@gmail.com (David Wicks)</author>
-      <guid>http://localhost:1313/posts/train-yourself/</guid>
-      <description>&lt;p&gt;Here is something I&amp;rsquo;ve been thinking about for a long, long time: train yourself to be godly.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-common-flawed-assumption-about-spiritual-growth&#34;&gt;The Common (Flawed) Assumption About Spiritual Growth&lt;/h2&gt;&#xA;&lt;p&gt;In my early years, I adopted a view of spiritual growth that goes something like this:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Say a sinner&amp;rsquo;s prayer&lt;/li&gt;&#xA;&lt;li&gt;Jesus comes into your heart&lt;/li&gt;&#xA;&lt;li&gt;Grow closer to God over time&lt;/li&gt;&#xA;&lt;li&gt;Go to heaven&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;I can&amp;rsquo;t argue with steps one and two. Nor could I argue with steps 3 and 4. However, step three is based on a major assumption—that it happens &lt;em&gt;naturally&lt;/em&gt;.&lt;/p&gt;</description>
-    </item>
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Christianity - Tag - David&#39;s site</title>
+        <link>http://localhost:1313/tags/christianity/</link>
+        <description>Christianity - Tag - David&#39;s site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>dawicks@gmail.com (David Wicks)</managingEditor>
+            <webMaster>dawicks@gmail.com (David Wicks)</webMaster><lastBuildDate>Tue, 15 Apr 2025 09:29:33 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/christianity/" rel="self" type="application/rss+xml" /><item>
+    <title>Train Yourself to Be Godly</title>
+    <link>http://localhost:1313/posts/train-yourself/</link>
+    <pubDate>Tue, 15 Apr 2025 09:29:33 -0400</pubDate>
+    <author>David Wicks</author>
+    <guid>http://localhost:1313/posts/train-yourself/</guid>
+    <description><![CDATA[<p>Here is something I&rsquo;ve been thinking about for a long, long time: train yourself to be godly.</p>
+<h2 id="the-common-flawed-assumption-about-spiritual-growth">The Common (Flawed) Assumption About Spiritual Growth</h2>
+<p>In my early years, I adopted a view of spiritual growth that goes something like this:</p>
+<ol>
+<li>Say a sinner&rsquo;s prayer</li>
+<li>Jesus comes into your heart</li>
+<li>Grow closer to God over time</li>
+<li>Go to heaven</li>
+</ol>
+<p>I can&rsquo;t argue with steps one and two. Nor could I argue with steps 3 and 4. However, step three is based on a major assumption—that it happens <em>naturally</em>.</p>]]></description>
+</item>
+</channel>
 </rss>

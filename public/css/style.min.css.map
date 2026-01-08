@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.min.css",
-	"sourceRoot": "C:/Users/pango/hugo/quickstart",
+	"sourceRoot": "C:/Users/pango/OneDrive/Documents/mysite/davidwickssite",
 	"sources": [
 		"themes/loveit/assets/css/style.scss",
 		"themes/loveit/assets/lib/modern-normalize/modern-normalize.css",

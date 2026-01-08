@@ -3,9 +3,9 @@ date = '{{ .Date }}'
 draft = false
 title = '{{ replace .File.ContentBaseName "-" " " | title }}'
 
-# Assign categories AI, technology, faith, pastoring, other
+# Categories: ai, faith, hockey, parenting, pastoring, technology, side-hustle
 categories = []
-# Assign tags elevenlabs
+# Tags: christianity, discipline, elevenlabs, ethics, faith, life, spiritual growth, training
 tags = []
 
 +++

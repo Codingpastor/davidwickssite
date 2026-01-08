@@ -1,21 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Life on David&#39;s site</title>
-    <link>http://localhost:1313/tags/life/</link>
-    <description>Recent content in Life on David&#39;s site</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <managingEditor>dawicks@gmail.com (David Wicks)</managingEditor>
-    <webMaster>dawicks@gmail.com (David Wicks)</webMaster>
-    <lastBuildDate>Thu, 30 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/life/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Real Cost of Hockey (And Why it is Worth Every Penny)</title>
-      <link>http://localhost:1313/posts/hockey-parenting/</link>
-      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate><author>dawicks@gmail.com (David Wicks)</author>
-      <guid>http://localhost:1313/posts/hockey-parenting/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m currently a parent of three boys in hockey, and I&amp;rsquo;ll be honest—there are times when it feels overwhelming.&lt;/p&gt;&#xA;&lt;p&gt;The driving. The equipment costs. Gas prices. Meals on the road. Tournament weekends. When I look at it purely from that perspective, I sometimes wonder: &lt;em&gt;What are we doing? Why are we spending all this money as a family?&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-moment-that-changes-everything&#34;&gt;The Moment That Changes Everything&lt;/h2&gt;&#xA;&lt;p&gt;But then I have those moments. I had one just a few nights ago, driving home from a game about an hour away.&lt;/p&gt;</description>
-    </item>
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Life - Tag - David&#39;s site</title>
+        <link>http://localhost:1313/tags/life/</link>
+        <description>Life - Tag - David&#39;s site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>dawicks@gmail.com (David Wicks)</managingEditor>
+            <webMaster>dawicks@gmail.com (David Wicks)</webMaster><lastBuildDate>Mon, 01 Dec 2025 12:00:00 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/life/" rel="self" type="application/rss+xml" /><item>
+    <title>My Experience with Boomintro.com</title>
+    <link>http://localhost:1313/posts/my-experience-with-boomintro/</link>
+    <pubDate>Mon, 01 Dec 2025 12:00:00 -0500</pubDate>
+    <author>David Wicks</author>
+    <guid>http://localhost:1313/posts/my-experience-with-boomintro/</guid>
+    <description><![CDATA[<h1 id="my-experience-with-boomintrocom">My Experience with Boomintro.com</h1>
+<p>Many months ago, I was having a long conversation on WhatsApp with a long-time friend. He was telling me about his latest business ventures and how he was using AI to help him create some really interesting business opportunities. It was interesting to me because I had been mulling around a way to create a little</p>]]></description>
+</item>
+<item>
+    <title>The Real Cost of Hockey (And Why it is Worth Every Penny)</title>
+    <link>http://localhost:1313/posts/hockey-parenting/</link>
+    <pubDate>Thu, 30 Oct 2025 00:00:00 &#43;0000</pubDate>
+    <author>David Wicks</author>
+    <guid>http://localhost:1313/posts/hockey-parenting/</guid>
+    <description><![CDATA[<p>I&rsquo;m currently a parent of three boys in hockey, and I&rsquo;ll be honest—there are times when it feels overwhelming.</p>
+<p>The driving. The equipment costs. Gas prices. Meals on the road. Tournament weekends. When I look at it purely from that perspective, I sometimes wonder: <em>What are we doing? Why are we spending all this money as a family?</em></p>
+<h2 id="the-moment-that-changes-everything">The Moment That Changes Everything</h2>
+<p>But then I have those moments. I had one just a few nights ago, driving home from a game about an hour away.</p>]]></description>
+</item>
+</channel>
 </rss>

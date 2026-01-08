@@ -1,21 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Technology on David&#39;s site</title>
-    <link>http://localhost:1313/categories/technology/</link>
-    <description>Recent content in Technology on David&#39;s site</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <managingEditor>dawicks@gmail.com (David Wicks)</managingEditor>
-    <webMaster>dawicks@gmail.com (David Wicks)</webMaster>
-    <lastBuildDate>Thu, 10 Apr 2025 11:07:42 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/technology/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Administrative Burden</title>
-      <link>http://localhost:1313/posts/administrative-burden/</link>
-      <pubDate>Thu, 10 Apr 2025 11:07:42 -0400</pubDate><author>dawicks@gmail.com (David Wicks)</author>
-      <guid>http://localhost:1313/posts/administrative-burden/</guid>
-      <description>&lt;h1 id=&#34;the-hidden-burden-how-administrative-tasks-drain-pastoral-energy&#34;&gt;The Hidden Burden: How Administrative Tasks Drain Pastoral Energy&lt;/h1&gt;&#xA;&lt;p&gt;In the quiet hours before dawn, Pastor David sits at his desk reviewing reports, making decisions on facility issues, and finalizing next month&amp;rsquo;s ministry calendar. His sermon preparation—the work he feels truly called to do—sits untouched in the corner.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Ok a little theatric, but not far from the truth on some days.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Despite having dedicated staff and volunteers who handle many day-to-day tasks, this scene plays out in countless churches across the country, where pastors still find themselves shouldering administrative responsibilities that pull them away from their primary calling.&lt;/p&gt;</description>
-    </item>
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Technology - Category - David&#39;s site</title>
+        <link>http://localhost:1313/categories/technology/</link>
+        <description>Technology - Category - David&#39;s site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>dawicks@gmail.com (David Wicks)</managingEditor>
+            <webMaster>dawicks@gmail.com (David Wicks)</webMaster><lastBuildDate>Mon, 01 Dec 2025 12:00:00 -0500</lastBuildDate><atom:link href="http://localhost:1313/categories/technology/" rel="self" type="application/rss+xml" /><item>
+    <title>My Experience with Boomintro.com</title>
+    <link>http://localhost:1313/posts/my-experience-with-boomintro/</link>
+    <pubDate>Mon, 01 Dec 2025 12:00:00 -0500</pubDate>
+    <author>David Wicks</author>
+    <guid>http://localhost:1313/posts/my-experience-with-boomintro/</guid>
+    <description><![CDATA[<h1 id="my-experience-with-boomintrocom">My Experience with Boomintro.com</h1>
+<p>Many months ago, I was having a long conversation on WhatsApp with a long-time friend. He was telling me about his latest business ventures and how he was using AI to help him create some really interesting business opportunities. It was interesting to me because I had been mulling around a way to create a little</p>]]></description>
+</item>
+<item>
+    <title>Administrative Burden</title>
+    <link>http://localhost:1313/posts/administrative-burden/</link>
+    <pubDate>Thu, 10 Apr 2025 11:07:42 -0400</pubDate>
+    <author>David Wicks</author>
+    <guid>http://localhost:1313/posts/administrative-burden/</guid>
+    <description><![CDATA[<h1 id="the-hidden-burden-how-administrative-tasks-drain-pastoral-energy">The Hidden Burden: How Administrative Tasks Drain Pastoral Energy</h1>
+<p>In the quiet hours before dawn, Pastor David sits at his desk reviewing reports, making decisions on facility issues, and finalizing next month&rsquo;s ministry calendar. His sermon preparation—the work he feels truly called to do—sits untouched in the corner.</p>
+<p><em>Ok a little theatric, but not far from the truth on some days.</em></p>
+<p>Despite having dedicated staff and volunteers who handle many day-to-day tasks, this scene plays out in countless churches across the country, where pastors still find themselves shouldering administrative responsibilities that pull them away from their primary calling.</p>]]></description>
+</item>
+</channel>
 </rss>
