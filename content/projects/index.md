@@ -6,6 +6,10 @@ draft: false
 
 # Here's some other projects I have on the go:
 
+## old school letter
+
+This was something I built to help me keep in touch with friends and family the old fashioned way. It generates a printable letter that you can fill out and mail to someone. Check it out: [Old School Letter](https://oldschoolletter.davidwicks.site). It's a simple idea but I think it has value in today's digital world. I'm wondering if there is a market for more of this kind of thing... an analog pushback against the digital overload we all experience. No AI involved, other than the website generation itself!!!
+
 ## BoomIntro.com
 
 I built this site to help people create engaging sports intros using AI. Users can input their team roster, choice of music and some other preferences, and the AI generates a custom intro in less than a minute. Check it out: [BoomIntro](https://boomintro.com).
