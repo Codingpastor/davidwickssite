@@ -1,6 +1,6 @@
 baseURL = 'https://davidwicks.site/'
 languageCode = 'en-us'
-title = "David's site"
+title = "David Wicks"
 theme = 'loveit'
 
 [module]
@@ -24,10 +24,10 @@ theme = 'loveit'
   dateFormat = "2006-01-02"
   # website title for Open Graph and Twitter Cards
   # 网站标题, 用于 Open Graph 和 Twitter Cards
-  title = "David Wicks AI and Pastoring Blog"
+  title = "David Wicks — Practical Software for Churches & Non-Profits"
   # website description for RSS, SEO, Open Graph and Twitter Cards
   # 网站描述, 用于 RSS, SEO, Open Graph 和 Twitter Cards
-  description = "Pastor, developer, builder, and problem-solver. I'm interested in AI, technology, faith, and creating solutions. From custom software to physical repairs, I help turn ideas into reality. This site is a blog where I share insights and a place where I showcase what I build."
+  description = "I'm a pastor who builds practical AI and web tools for churches, ministries, non-profits, and small organizations. Working sessions, build sprints, and ongoing support."
   # website images for Open Graph and Twitter Cards
   # 网站图片, 用于 Open Graph 和 Twitter Cards
   images = []
@@ -36,7 +36,7 @@ theme = 'loveit'
   # 作者配置
   [params.author]
     name = "David Wicks"
-    email = "dawicks@gmail.com"
+    email = "david@davidwicks.site"
     link = "https://davidwicks.site/about/"
 
   # Header config
@@ -56,7 +56,7 @@ theme = 'loveit'
       logo = ""
       # title name
       # 标题名称
-      name = "David's"
+      name = "David Wicks"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = ""
@@ -73,7 +73,7 @@ theme = 'loveit'
     enable = true
     # Custom content (HTML format is supported)
     # 自定义内容 (支持 HTML 格式)
-    custom = ""
+    custom = """<a href="/repairs/">Repairs &amp; fabrication</a>"""
     # whether to show Hugo and theme info
     # 是否显示 Hugo 和主题信息
     hugo = true
@@ -124,7 +124,7 @@ theme = 'loveit'
   [params.app]
     # optional site title override for the app when added to an iOS home screen or Android launcher
     # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
-    title = "My cool site"
+    title = "David Wicks"
     # whether to omit favicon resource links
     # 是否隐藏网站图标资源链接
     noFavicon = false
@@ -668,20 +668,20 @@ theme = 'loveit'
     url = "/projects/"
     weight = 2
   [[menu.main]]
-    name = "Partner"
-    pre = "<i class='fas fa-handshake-angle'></i>"
-    url = "/partner/"
+    name = "Writing"
+    pre = "<i class='fas fa-pen-nib'></i>"
+    url = "/posts/"
     weight = 3
   [[menu.main]]
     name = "Contact me"
     pre = "<i class='fas fa-envelope'></i>"
     url = "/contact/"
-    weight = 3
+    weight = 4
   [[menu.main]]
     name = "Archives"
     pre = "<i class='fas fa-layer-group'></i>"
-    url = "/Archives/"
-    weight = 4
+    url = "/archives/"
+    weight = 5
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]

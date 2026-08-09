@@ -1,18 +1,14 @@
 ---
-# title: "Archives"       # The title displayed on the page and in the browser tab
-date: 2025-04-15      # The date this page was created (can be today)
-layout: "archive"       # **Crucial:** Tells Hugo to use the 'archive.html' layout we'll create
-slug: "archives"        # The URL for this page (e.g., yoursite.com/archives/)
-menu: "main"            # Optional: Adds this page to your main menu
-# If using menu:
-# menu:
-#   main:
-#     identifier: archives
-#     name: Archives
-#     weight: -70       # Adjust weight to position in menu (lower numbers are typically first)
-#     url: "/archives/"
+title: "Archives"
+description: "Every post published on this site, grouped by year."
+date: 2025-04-15
+layout: "archive"       # Uses layouts/_default/archive.html
+slug: "archives"        # URL: /archives/
+# NOTE: deliberately no `menu` entry here. The Archives link is defined once,
+# in hugo.toml under [[menu.main]]. Setting it in both places put two Archives
+# items in the nav.
 ---
 
-## Welcome to the archives! Here you can find all the posts published on this site.
+Every post published on this site, newest first.
 
-If you would prefer to see the articles according to categories click [here](/categories/).
+If you'd rather browse by topic, try the [categories](/categories/).
