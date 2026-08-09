@@ -1,61 +1,94 @@
 ---
-title: ""
+title: "Projects"
+description: "Live products and client work — AI voice agents, sports intros, ministry sites, and reading tools. Everything here is built and running."
 date: 2025-03-31T13:00:00Z
 draft: false
 ---
 
-# Here's some other projects I have on the go:
+Everything on this page is built and running. Some of it is client work, some of it started as something I needed myself and turned into a product.
 
-## old school letter
+---
 
-This was something I built to help me keep in touch with friends and family the old fashioned way. It generates a printable letter that you can fill out and mail to someone. Check it out: [Old School Letter](https://oldschoolletter.davidwicks.site). It's a simple idea but I think it has value in today's digital world. I'm wondering if there is a market for more of this kind of thing... an analog pushback against the digital overload we all experience. No AI involved, other than the website generation itself!!!
+## BoomIntro
 
-## BoomIntro.com
+Broadcast-quality announcer intros for youth sports teams. You upload your roster, pick your music, and about a minute later you have a finished hype track.
 
-I built this site to help people create engaging sports intros using AI. Users can input their team roster, choice of music and some other preferences, and the AI generates a custom intro in less than a minute. Check it out: [BoomIntro](https://boomintro.com).
+The hard part was names. Off-the-shelf text-to-speech mangles half the roster, and getting a kid's name wrong is the one thing that ruins a team intro. So I built a pronunciation engine to handle it properly.
 
-I'm really proud of this site and feel like it offers something helpful to sports teams (parents) and organizations looking to create professional-quality intros without the high cost or time commitment of traditional recordings. I mean, who wouldn't want a hype intro for their team?
+**[boomintro.com](https://boomintro.com)** — Next.js, ElevenLabs, Stripe
 
-## OneActionStep.com
-
-This is a simple web app I built to help people take action on their goals. Users can create an account, set a goal, and then receive email reminders to take small steps towards that goal. The idea is to make it easy for people to build positive habits and make progress over time. Check it out: [One Action Step](https://oneactionstep.com). The unique thing about this site is that it uses a credit system to encourage users to take action. Users stake credits on an action, and lose them if they do not follow through. It's a simple but effective way to build accountability. The site actually helped me build the site itself. 
-
-## Another Take on a Bible Reading Web App
-
-I built this site for my church to help people track their progress through the Bible over three years. It's not flashy but it works. What's unique about the plan is that it includes weekly readings from the Old and New Testament. For those who find that to be too much, there is an "Old Testament Connection" chapter that picks up on the themes from that week's New Testament reading. Check it out: [Another Take on a Bible Reading Web App](https://readingplan.kzmc.ca).
-
-## A Better World, One Blessing at a Time
-
-This was more of a can I do it kind of project rather than anything that would be "successful." It uses AI to generate a blessing based on a few simple questions. The point? Well... I figured with all the negative crap being generated why not generate something positive. Check it out [here](https://ablessing.org/). I really, really like the animated background on this site. 
-
-## Simple Bible Reading Web App
-
-I got sick of all the overly complicated and feature rich bible apps out there that either have ads or are trying to promote books or The Chosen series or some other product so I decided to build my own. It's not flashy and not finished, but it works. It's set up for where I currently am in the but I will add some more personalized features in the future. I've got it hard coded for a 3-year bible reading cycle, which is a reasonable pace for me. Let me know what you think: [Dave's Bible Plan](https://bible.davidwicks.site).
-
-## Claude.ai Breakup Generator
-
-Purely for fun and as quick as I could make it, a claude.ai breakup generator. I loved claude and I hope they can get back on track because for a time they were the best out there for coding and developing websites, but they have lost their way. Check it out [here](https://claudebreakup.davidwicks.site/).
-
-## AI Agent Test Page
-
-As I mention below, I've been learning a tonne about developing and deploying conversational AI agents using Elevenlabs. I have used their widgets, developed a custom working wordpress plugin (I hope you can see it in action soon) as well as a simple custom web interface for their agents using javascript/vite. I think that this is a marketable skill that will be worth something to the right customers. With that in mind, I've created a little "sales" page where a potential customer could try out an AI agent. You can try out this page and an agent [here](https://agents.davidwicks.site/). I'm sure you'll enjoy talking to Tony about your plumbing.
-
-## Digital Detox Website   
-
-I am currently developing a website that helps people break their addiction to their phones. It will be a customized 21-day customized email campaign that requires daily check-ins otherwise the service stops and the user needs to pay again in order to complete. It focuses on personal agency and mindfulness instead of overbearing and obtrusive accountability apps. It utilizes wordpress for the webpage and payment system (woocommerce) and make.com for the backend and automated emails. AI is used to personalize the emails wia API calls in make.com.
-
-I'll post the link here when complete.
+---
 
 ## Conversational AI Agents
 
-I am helping to develop a series of websites that use conversational AI agents based off of [elevenlabs](https://try.elevenlabs.io/davidwicks) incredible product. The agents are geared towards helping people solve real world problems and personal issues. The first one being created is geared towards helping Christians deepen their relationship with Christ. I'll post a link when the project is a little bit closer to being completed. The workhorse of this project is a custom built wordpress plugin that interacts with the elevenlabs agents. 
+Voice agents built on [ElevenLabs](https://try.elevenlabs.io/davidwicks) that answer questions, qualify leads, and book work. I've deployed them as embedded widgets, through a custom WordPress plugin I wrote so non-technical staff can manage their own agents, and as a standalone web interface in JavaScript/Vite.
 
-## Hockey Gear Check
+There's a demo page where you can try one yourself. Have a conversation with Tony about your plumbing.
 
-This is a very simple website that I developed partly out of necessity and partly out of wanting to see how much I could create very quickly using claude.ai. I am very impressed with how easy it was to create a simple page. 
+**[agents.davidwicks.site](https://agents.davidwicks.site)** — ElevenLabs, custom WordPress plugin, JS/Vite
 
-It's basically an online checklist geared to help young players ensure that they have all of their gear packed and ready for their next game. Have some fun: [Hockey Gear Check](https://hockeygearcheck.com/)
+---
 
 ## Father Trucker
 
-This is a site I am helping to build for a a ministry to truckers. The goal was to be simple, fast and mobile friendly. This is definitely a case of building the airplane as we fly it but it has come together nicely. Check it out here: [Father Trucker](https://thefathertrucker.ca/)
+A ministry site for long-haul truckers, built for someone reading on a phone in a cab at a truck stop. Simple, fast, and mobile-first, with a content system the ministry team can run themselves.
+
+**[thefathertrucker.ca](https://thefathertrucker.ca)** — mobile-first build, editable by non-technical staff
+
+---
+
+## Three-Year Bible Reading Plan
+
+Built for my congregation and still in use every week. It tracks progress through the Bible over three years, pairing each week's New Testament reading with an Old Testament chapter that picks up the same themes — so people who find a full plan too much still get the through-line instead of stalling out.
+
+**[readingplan.kzmc.ca](https://readingplan.kzmc.ca)** — progress tracking, no ads, no login friction
+
+---
+
+## One Action Step
+
+Goal accountability with real stakes. You set a goal, stake credits on an action, and lose them if you don't follow through. Email reminders keep you moving on small steps rather than the whole mountain.
+
+Underneath it's a complete piece of plumbing: user accounts, a credit ledger, subscriptions, and scheduled email, all done end to end.
+
+**[oneactionstep.com](https://oneactionstep.com)** — accounts, credit ledger, scheduled email
+
+---
+
+## Digital Detox Program
+
+A 21-day reset for phone habits, currently in development. It runs on daily check-ins, and the follow-up emails are personalized by AI to what the participant actually reported that day. The focus is personal agency and mindfulness rather than the nagging that most accountability apps rely on.
+
+Built on WordPress and WooCommerce for the front end and payments, with Make.com handling the backend automation and email.
+
+*In progress — I'll add the link when it's live.*
+
+---
+
+## A Blessing
+
+AI that generates a blessing from a few simple questions. There is an enormous amount of machine-generated negativity in the world, so I wanted to point the same tools the other way. I'm still fond of the animated background.
+
+**[ablessing.org](https://ablessing.org/)**
+
+---
+
+## Dave's Bible Plan
+
+I got tired of Bible apps carrying ads or pushing books and TV series, so I built a plain one for myself on a three-year reading cycle. No ads, nothing to upsell.
+
+**[bible.davidwicks.site](https://bible.davidwicks.site)**
+
+---
+
+## Built For Fun
+
+Small things, built quickly, mostly because I wanted them to exist.
+
+**[Old School Letter](https://oldschoolletter.davidwicks.site)** — Generates a printable letter you fill out and mail to someone. A small analog pushback against digital overload, and a genuinely nice way to stay in touch.
+
+**[Hockey Gear Check](https://hockeygearcheck.com/)** — An online checklist so young players can make sure everything is packed before the next game. Born of necessity, as any hockey parent will understand.
+
+---
+
+Want something like one of these built for your organization? [Let's talk](/contact/).
