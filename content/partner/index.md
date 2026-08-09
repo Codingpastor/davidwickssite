@@ -1,7 +1,12 @@
 ---
 title: "Partner"
 date: 2025-03-31T11:55:00Z
-draft: false
+# Retired. This page duplicated /services/ and /contact/ and split the CTA
+# three ways. Its non-profit and discount content now lives in the
+# "Churches & Non-Profits" section of /services/, and /partner/ redirects
+# there via an alias on that page.
+# Kept as a draft (unbuilt) pending confirmation to delete the file outright.
+draft: true
 ---
 
 # Let's Build Something Together
