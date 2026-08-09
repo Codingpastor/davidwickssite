@@ -189,10 +189,10 @@ theme = 'loveit'
   avatarURL = "/images/avatar.png"
       # title shown in home page (HTML format is supported)
       # 主页显示的网站标题 (支持 HTML 格式)
-      title = "Welcome."
+      title = "A pastor who ships software."
       # subtitle shown in home page (HTML format is supported)
       # 主页显示的网站副标题 (允许 HTML 格式)
-      subtitle = "Pastor. Coder. Builder. Creator. Problem-solver."
+      subtitle = "Practical AI and web tools for churches, ministries, and non-profits."
       # whether to use typeit animation for subtitle
       # 是否为副标题显示打字机动画
       typeit = true
@@ -201,11 +201,13 @@ theme = 'loveit'
       social = true
       # disclaimer (HTML format is supported)
       # 免责声明 (支持 HTML 格式)
-      disclaimer = """Pastor. Coder. Builder. Creator. I'm passionate about AI, technology, faith, and solving problems. From custom software development to physical repairs and fabrication, I help turn ideas into reality. Need something built? <a href="/services/">See what I can do</a> or <a href="/contact/">let's talk</a>!"""
+      disclaimer = """I build practical AI and web tools for churches, ministries, non-profits, and small organizations &mdash; and I write the code myself. Need something built? <a href="/services/">See what I can do</a> or <a href="/contact/">let's talk</a>."""
     # Home page posts
     # 主页文章列表
     [params.home.posts]
-      enable = true
+      # The home page is a sales page now, not a blog index.
+      # Posts live at /posts/ and are still listed there and in /archives/.
+      enable = false
       # special amount of posts in each home posts page
       # 主页每页显示文章数量
       paginate = 6
