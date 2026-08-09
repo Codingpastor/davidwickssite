@@ -1,142 +1,102 @@
-﻿---
+---
 title: "Services"
+description: "Working sessions, build sprints, and monthly retainers for churches, non-profits, and small organizations. Fixed scope, fixed price."
 date: 2025-11-26
 draft: false
-menu:
-  main:
-    weight: 2
-    params:
-      icon: wrench
-description: "Custom solutions, development, and repairs - from digital to physical"
+aliases:
+  - /partner/
 ---
 
-# What I Can Build For You
+Most developers say "we don't do that." I say "let's figure it out."
 
-Most developers say "we don't do that." I say "let's figure it out." From custom software to physical repairs - if you can imagine it or it's broken, I can help.
+I build practical AI and web tools for churches, ministries, non-profits, and small organizations. Three ways to work together, all with fixed scope and a fixed price. If your project doesn't fit one of them, tell me and we'll shape something that does.
 
 ---
 
-##  Digital Solutions
+## Working Session — $250
 
-### Quick Fix (~$100)
-Small tweaks, bug fixes, automation scripts, simple websites
-- 1-3 hours of work
-- Fast turnaround (1-3 days)
-- Perfect for simple needs
+**90 minutes to get unstuck.**
 
-[Get a Quote](/contact/)
+- We work out what the actual problem is, not just the symptom
+- Two or three ways forward, with honest costs and effort
+- A written plan you can hand to anyone, including another developer
+- Credited back if we go on to build something together
 
----
+Good when you have a budget line and no idea what to spend it on, or when you need someone technical to sanity-check a quote you've been given.
 
-### Discovery Session (~$200) 
-**90-minute brainstorming & solution design session**
-- Deep-dive problem analysis
-- Multiple solution approaches
-- Feasibility assessment
-- Implementation roadmap
-
-Perfect when you have an idea but need help figuring out how to make it real.
-
-[Book a Discovery Call](/contact/)
+[Book a session](/contact/)
 
 ---
 
-### Rapid Prototype (~$1-2K)
-**Working MVP in 1-2 weeks**
-- Proof-of-concept builds
-- Test your idea quickly
-- Web apps, tools, systems
-- Includes basic documentation
+## Build Sprint — $3,000 to $9,000
 
-Ideal for entrepreneurs wanting to validate an idea before full investment.
+**A working thing in production, in three to six weeks.**
 
-[Let's Build ](/contact/)
+- Not a prototype — something your people can actually use
+- Weekly demos, so you see it running the whole way through
+- Built so your staff can run it without me
+- 30 days of fixes included after launch
 
----
+Good for a website, an internal tool, an AI voice agent, or automating something that's currently eating a day of someone's week.
 
-### Retainer (~$1K/month)
-**Ongoing support & development**
-- Priority access to my time
-- Monthly development hours
-- Strategic consulting
+Where a project lands in that range depends on scope, and I'll tell you which end you're at before you commit to anything.
 
-Great for organizations needing regular tech support and development.
-
-[Discuss Retainer ](/contact/)
+[Start a project](/contact/)
 
 ---
 
-##  Physical Repairs & Creation
+## Retainer — $1,500/month
 
-### Expert Repairs
-**Fix almost anything mechanical, electrical, or structural.**
-**For stuff you just can't find any other place to fix!**
+**Ongoing development and support.**
 
-- Vintage electronics (jukeboxes, radios, turntables)
-- Appliance repair & troubleshooting
-- Furniture restoration
-- Mechanical devices
-- Musical equipment
-- Bicycles, go-karts, and just about anything else with wheels or an engine!
+- A standing block of my time every month
+- First in line when something breaks
+- Strategic input — a technical person in the room when you're making decisions
+- Three-month minimum, then month to month
 
-**Starting at $45/hour + parts**
+Good for organizations that keep needing things built and don't want to hire someone full-time.
 
-* Local service (in-person)*
-
-[Request Repair ](/contact/)
+[Discuss a retainer](/contact/)
 
 ---
 
-### Custom Fabrication
-**Build physical solutions for your unique needs**
+## Churches & Non-Profits
 
-- Custom furniture & storage & other stuff
-- Welding projects (steel, MIG))
-- Home organization systems
-- Workshop tools & jigs
-- Prototype physical products
-- One off, crazy ideas
+**I have a heart for helping ministries, churches, and non-profit organizations**, having served in ministry for over a decade myself.
 
-**Quote-based pricing**
+Too often smaller organizations have a real technical problem and no budget for professional help. So:
 
-[Discuss Project ](/contact/)
+- **The first conversation is always free.** No discovery fee, no obligation.
+- **Reduced rates apply** across all three of the options above.
+- **Small fixes are often pro bono** when I have the time — a broken form, a site that won't update, a login nobody can get into.
 
----
-
-### Hybrid Projects
-**Combining digital + physical solutions**
-
-- Smart home integrations
-- IoT device setups
-- Automated systems
-- Tech + craftsmanship
-
-The best of both worlds.
-
-**Quote-based pricing**
-
-[Tell Me Your Idea ](/contact/)
+If you're a ministry or non-profit, reach out even if you think you can't afford it. Let's talk about what you need and I'll do what I can to make it work within your constraints. Technology should serve the mission, not get in its way.
 
 ---
 
 ## Why Work With Me?
 
-###  I Say Yes
+### I Already Speak Your Language
+Over a decade leading congregations. I know what a board meeting sounds like, why volunteer turnover breaks your process, and which "simple" request is going to cost you three months. You won't spend the first two weeks explaining your world to me.
+
+### You Get The Person Writing The Code
+No account manager, no handoff, no junior developer learning on your budget. The person you talk to is the person building it.
+
+### I Say Yes
 While others say "we don't do that," I figure out how to make it happen. Novel problems are my specialty.
 
-###  Clear Communication
-Trained as a counselor and pastor - I listen well, explain clearly, and genuinely care about your success.
+### I'll Tell You Not To Build It
+Plenty of problems get solved by a spreadsheet, a free tool, or a change to a process. I'd rather lose the project than take your money for software you didn't need.
 
-###  Fast & Flexible
-From quick fixes to major builds, I work at the pace your project needs with transparent timelines.
-
-###  Full Stack Life
-Code, carpentry, counseling, welding - my diverse skills mean I see solutions others miss.
+### Clear Communication
+Trained as a counsellor and a pastor. I listen well, I explain clearly, and I'll tell you what's realistic and what isn't. No overselling and no surprises.
 
 ---
 
-## Ready to Start?
+## Ready To Start?
 
-Whether it's a custom app, a broken appliance, or a wild idea - [let's talk](/contact/).
+Tell me what's going on — a few sentences about the problem is plenty, you don't need a spec.
 
-I respond to every inquiry personally. Tell me what you need, and I'll let you know if I can help.
+I respond to every inquiry personally, and I'll let you know if I'm not the right person for it.
+
+[Let's talk](/contact/)
