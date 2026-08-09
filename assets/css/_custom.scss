@@ -1,0 +1,33 @@
+// Project custom styles.
+//
+// LoveIt imports this file last from themes/loveit/assets/css/style.scss,
+// so rules here override the theme without touching the submodule.
+
+// ---------------------------------------------------------------------------
+// Home page: profile overlapping the content below it
+// ---------------------------------------------------------------------------
+// LoveIt shifts .home-profile down by 16vh so that a profile-only home page
+// looks vertically centred in the viewport. That transform moves the profile
+// visually but reserves no layout space, so it renders on top of anything
+// that follows it.
+//
+// The theme only cancels the shift when the post list is enabled
+// (.home[data-home=posts]). Our home page is a sales page with the post list
+// turned off, so the attribute is absent and the profile landed on top of the
+// page content. Cancel the shift here, and match the theme's own spacing and
+// avatar size for the "profile followed by content" case.
+.home {
+  .home-profile {
+    transform: translateY(0);
+    padding-top: 2rem;
+  }
+
+  .home-avatar img {
+    width: 6rem;
+  }
+
+  // Breathing room between the profile block and the page content.
+  .single {
+    margin-top: 1.5rem;
+  }
+}
