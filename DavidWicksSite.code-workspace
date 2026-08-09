@@ -1,10 +1,10 @@
 {
 	"folders": [
 		{
-			"path": "../../../../../../Documents/newmoneymake"
+			"path": "../../../../Documents/newmoneymake"
 		},
 		{
-			"path": "../.."
+			"path": "."
 		}
 	],
 	"settings": {}

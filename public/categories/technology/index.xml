@@ -1,24 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Technology - Category - David&#39;s site</title>
-        <link>http://localhost:1313/categories/technology/</link>
-        <description>Technology - Category - David&#39;s site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>dawicks@gmail.com (David Wicks)</managingEditor>
-            <webMaster>dawicks@gmail.com (David Wicks)</webMaster><lastBuildDate>Mon, 01 Dec 2025 12:00:00 -0500</lastBuildDate><atom:link href="http://localhost:1313/categories/technology/" rel="self" type="application/rss+xml" /><item>
-    <title>My Experience with Boomintro.com</title>
-    <link>http://localhost:1313/posts/my-experience-with-boomintro/</link>
-    <pubDate>Mon, 01 Dec 2025 12:00:00 -0500</pubDate>
-    <author>David Wicks</author>
-    <guid>http://localhost:1313/posts/my-experience-with-boomintro/</guid>
-    <description><![CDATA[<h1 id="my-experience-with-boomintrocom">My Experience with Boomintro.com</h1>
-<p>Many months ago, I was having a long conversation on WhatsApp with a long-time friend. He was telling me about his latest business ventures and how he was using AI to help him create some really interesting business opportunities. It was interesting to me because I had been mulling around a way to create a little</p>]]></description>
-</item>
-<item>
+        <title>Technology - Category - David Wicks</title>
+        <link>https://davidwicks.site/categories/technology/</link>
+        <description>Technology - Category - David Wicks</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>david@davidwicks.site (David Wicks)</managingEditor>
+            <webMaster>david@davidwicks.site (David Wicks)</webMaster><lastBuildDate>Thu, 10 Apr 2025 11:07:42 -0400</lastBuildDate><atom:link href="https://davidwicks.site/categories/technology/" rel="self" type="application/rss+xml" /><item>
     <title>Administrative Burden</title>
-    <link>http://localhost:1313/posts/administrative-burden/</link>
+    <link>https://davidwicks.site/posts/administrative-burden/</link>
     <pubDate>Thu, 10 Apr 2025 11:07:42 -0400</pubDate>
     <author>David Wicks</author>
-    <guid>http://localhost:1313/posts/administrative-burden/</guid>
+    <guid>https://davidwicks.site/posts/administrative-burden/</guid>
     <description><![CDATA[<h1 id="the-hidden-burden-how-administrative-tasks-drain-pastoral-energy">The Hidden Burden: How Administrative Tasks Drain Pastoral Energy</h1>
 <p>In the quiet hours before dawn, Pastor David sits at his desk reviewing reports, making decisions on facility issues, and finalizing next month&rsquo;s ministry calendar. His sermon preparation—the work he feels truly called to do—sits untouched in the corner.</p>
 <p><em>Ok a little theatric, but not far from the truth on some days.</em></p>
