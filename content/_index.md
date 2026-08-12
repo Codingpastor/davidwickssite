@@ -5,7 +5,7 @@ date: 2026-08-08
 draft: false
 ---
 
-I've spent over 2 decades in ministry, and I write software. That combination is the whole point. I know what being in ministry is like and I can make stuff that works for you.
+I've spent over two decades in ministry, and I write software. That combination is the whole point: I've sat on your side of the table. I know what a board meeting sounds like, and I know how much of your week disappears into admin — so I build things that fit how you actually work.
 
 When you hire me, you talk to the person who writes the code.
 

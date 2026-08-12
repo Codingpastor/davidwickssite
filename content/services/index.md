@@ -62,7 +62,7 @@ Good for organizations that keep needing things built and don't want to hire som
 
 ## Churches & Non-Profits
 
-**I have a heart for helping ministries, churches, and non-profit organizations**, having served in ministry for over a decade myself.
+**I have a heart for helping ministries, churches, and non-profit organizations**, having served in ministry for over two decades myself.
 
 Too often smaller organizations have a real technical problem and no budget for professional help. So:
 
@@ -77,7 +77,7 @@ If you're a ministry or non-profit, reach out even if you think you can't afford
 ## Why Work With Me?
 
 ### I Already Speak Your Language
-Over a decade leading congregations. I know what a board meeting sounds like, why volunteer turnover breaks your process, and which "simple" request is going to cost you three months. You won't spend the first two weeks explaining your world to me.
+Two decades leading congregations. I know what a board meeting sounds like, why volunteer turnover breaks your process, and which "simple" request is going to cost you three months. You won't spend the first two weeks explaining your world to me.
 
 ### You Get The Person Writing The Code
 No account manager, no handoff, no junior developer learning on your budget. The person you talk to is the person building it.

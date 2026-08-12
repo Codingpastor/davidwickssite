@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "Pastor, developer, and builder. A background in molecular biology and counselling, over a decade in ministry, and the software to go with it."
+description: "Pastor, developer, and builder. A background in molecular biology and counselling, over two decades in ministry, and the software to go with it."
 date: 2024-03-25T00:00:00Z
 draft: false
 ---
