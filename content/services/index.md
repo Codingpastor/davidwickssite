@@ -22,7 +22,7 @@ I build practical AI and web tools for churches, ministries, non-profits, and sm
 - A written plan you can hand to anyone, including another developer
 - Credited back if we go on to build something together
 
-Good when you have a budget line and no idea what to spend it on, or when you need someone technical to sanity-check a quote you've been given.
+Good when you know something has to change but not what to build, or when you've been handed a quote and no way to judge whether it's fair.
 
 [Book a session](/contact/)
 

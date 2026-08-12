@@ -1,55 +1,55 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Categories - Category - David Wicks</title>
-        <link>https://davidwicks.site/categories/</link>
+        <link>http://localhost:1313/categories/</link>
         <description>Categories - Category - David Wicks</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>david@davidwicks.site (David Wicks)</managingEditor>
-            <webMaster>david@davidwicks.site (David Wicks)</webMaster><lastBuildDate>Thu, 30 Oct 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://davidwicks.site/categories/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>dawicks@gmail.com (David Wicks)</managingEditor>
+            <webMaster>dawicks@gmail.com (David Wicks)</webMaster><lastBuildDate>Thu, 30 Oct 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/categories/" rel="self" type="application/rss+xml" /><item>
     <title>Hockey</title>
-    <link>https://davidwicks.site/categories/hockey/</link>
+    <link>http://localhost:1313/categories/hockey/</link>
     <pubDate>Thu, 30 Oct 2025 00:00:00 &#43;0000</pubDate>
     <author>David Wicks</author>
-    <guid>https://davidwicks.site/categories/hockey/</guid>
+    <guid>http://localhost:1313/categories/hockey/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Parenting</title>
-    <link>https://davidwicks.site/categories/parenting/</link>
+    <link>http://localhost:1313/categories/parenting/</link>
     <pubDate>Thu, 30 Oct 2025 00:00:00 &#43;0000</pubDate>
     <author>David Wicks</author>
-    <guid>https://davidwicks.site/categories/parenting/</guid>
+    <guid>http://localhost:1313/categories/parenting/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>AI</title>
-    <link>https://davidwicks.site/categories/ai/</link>
+    <link>http://localhost:1313/categories/ai/</link>
     <pubDate>Sat, 19 Apr 2025 14:14:48 -0400</pubDate>
     <author>David Wicks</author>
-    <guid>https://davidwicks.site/categories/ai/</guid>
+    <guid>http://localhost:1313/categories/ai/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Pastoring</title>
-    <link>https://davidwicks.site/categories/pastoring/</link>
+    <link>http://localhost:1313/categories/pastoring/</link>
     <pubDate>Sat, 19 Apr 2025 14:14:48 -0400</pubDate>
     <author>David Wicks</author>
-    <guid>https://davidwicks.site/categories/pastoring/</guid>
+    <guid>http://localhost:1313/categories/pastoring/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Faith</title>
-    <link>https://davidwicks.site/categories/faith/</link>
+    <link>http://localhost:1313/categories/faith/</link>
     <pubDate>Tue, 15 Apr 2025 09:29:33 -0400</pubDate>
     <author>David Wicks</author>
-    <guid>https://davidwicks.site/categories/faith/</guid>
+    <guid>http://localhost:1313/categories/faith/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Technology</title>
-    <link>https://davidwicks.site/categories/technology/</link>
+    <link>http://localhost:1313/categories/technology/</link>
     <pubDate>Thu, 10 Apr 2025 11:07:42 -0400</pubDate>
     <author>David Wicks</author>
-    <guid>https://davidwicks.site/categories/technology/</guid>
+    <guid>http://localhost:1313/categories/technology/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>

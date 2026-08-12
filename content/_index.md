@@ -36,7 +36,7 @@ Three ways in. Fixed scope, fixed price, no surprise invoices. If your project d
 - A written plan you can hand to anyone
 - Credited back if we go on to build something together
 
-Good when you have a budget line and no idea what to spend it on.
+Good when you know something has to change but not what to build, or what it should cost.
 
 [Book a session](/contact/)
 
