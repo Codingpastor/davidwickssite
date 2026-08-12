@@ -13,17 +13,13 @@ When you hire me, you talk to the person who writes the code. No account manager
 
 ## What I've Built
 
-**[BoomIntro](https://boomintro.com)** — Broadcast-quality announcer intros for youth sports teams. Upload your roster, pick your music, and you have a finished hype track in about a minute. It includes a pronunciation engine I built so the announcer gets every kid's name right, which is the part that makes or breaks a team intro.
+**[Conversational AI Agents](https://agents.davidwicks.site)** — Voice agents that answer the questions your office keeps answering: service times, room bookings, who to call about a funeral. They run as an embedded widget or through a WordPress plugin I wrote, so your staff can manage them without phoning me. There's a live demo you can talk to.
 
-**[Father Trucker](https://thefathertrucker.ca)** — A ministry site for long-haul truckers, built for someone reading on a phone in a cab at a truck stop. Fast, easy to read, and the ministry team can update it themselves.
+**[Father Trucker](https://thefathertrucker.ca)** — A ministry site for long-haul truckers, built for someone reading on a phone in a cab at a truck stop. Fast, easy to read, and the ministry team updates it themselves without needing me.
 
-**[Three-Year Bible Reading Plan](https://readingplan.kzmc.ca)** — Built for my own congregation and still running. Each week pairs a New Testament reading with an Old Testament chapter on the same theme, so people who can't keep up with a heavy plan still get the through-line instead of quitting partway through Leviticus.
+**[Three-Year Bible Reading Plan](https://readingplan.kzmc.ca)** — Built for my own congregation and still running every week. Each week pairs a New Testament reading with an Old Testament chapter on the same theme, so people who can't sustain a heavy plan still get the through-line instead of stalling out partway through Leviticus.
 
-**[Conversational AI Agents](https://agents.davidwicks.site)** — Voice agents that answer questions, qualify leads, and book work. They run as embedded widgets or through a WordPress plugin I wrote so non-technical staff can manage them without calling me.
-
-**[One Action Step](https://oneactionstep.com)** — Goal accountability with real stakes. You commit credits to a step and you lose them if you don't follow through.
-
-**Digital Detox Program** *(in progress)* — A 21-day phone-habit reset built around daily check-ins, where the follow-up emails are personalized to what the participant actually reported that day.
+There's more — sports software, habit tracking, a digital detox program — over on [projects](/projects/).
 
 ---
 
@@ -82,17 +78,17 @@ Good for organizations that keep needing things built and don't want to hire som
 
 ## Why Work With Me?
 
+### I'll Tell You Not To Build It
+Plenty of problems get solved by a spreadsheet, a free tool, or changing a process. I'd rather lose the project than take your money for software you didn't need — and I've turned down work on exactly those grounds.
+
 ### I Already Speak Your Language
 Over a decade leading congregations. I know why volunteer turnover breaks your process and which "simple" request is going to cost you three months. You won't spend the first two weeks explaining your world to me.
 
-### I'll Tell You Not To Build It
-Plenty of problems get solved by a spreadsheet, a free tool, or changing a process. I'd rather lose the project than take your money for software you didn't need.
-
 ### The Unusual Stuff Is Where I'm Strongest
-Molecular biology, counselling, pastoring, welding, code. When a project has a physical part, a human part, and a technical part, I'm not handing two thirds of it to someone else.
+When a project has a physical part, a human part, and a technical part, I don't hand two thirds of it away.
 
-### I Say Yes
-While others say "we don't do that," I figure out how to make it happen. Novel problems are my specialty.
+### I Take On The Weird Problems
+The requests other developers turn down because they don't fit a standard build — those are the ones I want. Not because I'll take anything, but because unusual problems are where I'm most useful to you.
 
 ---
 

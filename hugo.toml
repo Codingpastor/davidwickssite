@@ -192,16 +192,18 @@ theme = 'loveit'
       title = "A pastor who ships software."
       # subtitle shown in home page (HTML format is supported)
       # 主页显示的网站副标题 (允许 HTML 格式)
-      subtitle = "Practical AI and web tools for churches, ministries, and non-profits."
+      subtitle = "Giving churches and non-profits back the hours they lose to admin."
       # whether to use typeit animation for subtitle
       # 是否为副标题显示打字机动画
       typeit = true
       # whether to show social links
       # 是否显示社交账号
-      social = true
+      # Social row sat directly under the headline - prime space spent on links
+      # almost nobody clicks. The X link still lives in /about/ if it's wanted.
+      social = false
       # disclaimer (HTML format is supported)
       # 免责声明 (支持 HTML 格式)
-      disclaimer = """I build practical AI and web tools for churches, ministries, non-profits, and small organizations &mdash; and I write the code myself. Need something built? <a href="/services/">See what I can do</a> or <a href="/contact/">let's talk</a>."""
+      disclaimer = """Need something built? <a href="/services/">See what I can do</a> or <a href="/contact/">let's talk</a>."""
     # Home page posts
     # 主页文章列表
     [params.home.posts]
