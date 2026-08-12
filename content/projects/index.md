@@ -81,16 +81,6 @@ I got tired of Bible apps carrying ads or pushing books and TV series, so I buil
 
 ---
 
-## One-Off Builds
-
-Some projects don't fit a category. They have a physical part, a human part, and a technical part all at once — and most people you could hire can only take one of the three.
-
-That's the work I want most. Molecular biology, counselling, pastoring, welding, code: the range isn't a party trick. It means that when a problem spans a workshop, a server, and a room full of people, I can carry the whole thing instead of handing two thirds of it to someone else.
-
-Got something that doesn't fit a normal brief? [Tell me about it](/contact/) — those are the ones I say yes to fastest.
-
----
-
 ## Built For Fun
 
 Small things, built quickly, mostly because I wanted them to exist.

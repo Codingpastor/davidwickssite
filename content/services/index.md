@@ -60,6 +60,20 @@ Good for organizations that keep needing things built and don't want to hire som
 
 ---
 
+## One-Off Builds
+
+**The projects that don't fit any of the three above.**
+
+Some problems have a physical part, a human part, and a technical part all at once — and most people you could hire can only take one of the three. That's the work I want most.
+
+Molecular biology, counselling, pastoring, welding, code: the range isn't a party trick. It means that when a problem spans a workshop, a server, and a room full of people, I can carry the whole thing instead of handing two thirds of it to someone else.
+
+**Priced per project**, once we've worked out what it actually involves. That usually starts with a working session.
+
+[Tell me about it](/contact/) — these are the ones I say yes to fastest.
+
+---
+
 ## Churches & Non-Profits
 
 **I have a heart for helping ministries, churches, and non-profit organizations**, having served in ministry for over two decades myself.

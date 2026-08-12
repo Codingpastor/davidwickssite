@@ -88,7 +88,7 @@ Two decades leading congregations. I know why volunteer turnover breaks your pro
 When a project has a physical part, a human part, and a technical part, I don't hand two thirds of it away.
 
 ### I Take On The Weird Problems
-The requests other developers turn down because they don't fit a standard build — those are the ones I want. Not because I'll take anything, but because unusual problems are where I'm most useful to you. There's a [page of one-off builds](/projects/#one-off-builds) if you want to see what that looks like.
+The requests other developers turn down because they don't fit a standard build — those are the ones I want. Not because I'll take anything, but because unusual problems are where I'm most useful to you. There's more on [one-off builds](/services/#one-off-builds) if that sounds like your project.
 
 ---
 
