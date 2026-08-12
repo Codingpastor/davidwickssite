@@ -5,9 +5,9 @@ date: 2026-08-08
 draft: false
 ---
 
-I've spent over a decade in ministry, and I write software. That combination is the whole point: I've sat on your side of the table. I know what a board meeting sounds like, I know how much of your week disappears into admin, and I know what it's like to be handed a quote nobody can justify to a room full of volunteers.
+I've spent over 2 decades in ministry, and I write software. That combination is the whole point. I know what being in ministry is like and I can make stuff that works for you.
 
-When you hire me, you talk to the person who writes the code. No account manager, no handoff.
+When you hire me, you talk to the person who writes the code.
 
 ---
 
@@ -82,7 +82,7 @@ Good for organizations that keep needing things built and don't want to hire som
 Plenty of problems get solved by a spreadsheet, a free tool, or changing a process. I'd rather lose the project than take your money for software you didn't need — and I've turned down work on exactly those grounds.
 
 ### I Already Speak Your Language
-Over a decade leading congregations. I know why volunteer turnover breaks your process and which "simple" request is going to cost you three months. You won't spend the first two weeks explaining your world to me.
+Two decades leading congregations. I know why volunteer turnover breaks your process and which "simple" request is going to cost you three months. You won't spend the first two weeks explaining your world to me.
 
 ### The Unusual Stuff Is Where I'm Strongest
 When a project has a physical part, a human part, and a technical part, I don't hand two thirds of it away.
