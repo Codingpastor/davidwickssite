@@ -192,10 +192,13 @@ theme = 'loveit'
       title = "A pastor who ships software."
       # subtitle shown in home page (HTML format is supported)
       # 主页显示的网站副标题 (允许 HTML 格式)
-      subtitle = "Giving churches and non-profits back the hours they lose to admin."
+      subtitle = "Helping churches and non-profits build useful online tools."
       # whether to use typeit animation for subtitle
       # 是否为副标题显示打字机动画
-      typeit = true
+      # Off: the typing animation delayed the sub-line and, more importantly,
+      # kept it out of the static HTML entirely (JS-rendered, so invisible to
+      # search engines and to anyone whose JS doesn't run).
+      typeit = false
       # whether to show social links
       # 是否显示社交账号
       # Social row sat directly under the headline - prime space spent on links
