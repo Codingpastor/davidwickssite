@@ -36,7 +36,7 @@ theme = 'loveit'
   # 作者配置
   [params.author]
     name = "David Wicks"
-    email = "david@davidwicks.site"
+    email = "dawicks@gmail.com"
     link = "https://davidwicks.site/about/"
 
   # Header config

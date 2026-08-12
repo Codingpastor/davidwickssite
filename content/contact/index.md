@@ -26,7 +26,7 @@ Looking for a physical repair or something fabricated? That's [over here](/repai
 
 ## Contact Information
 
-📧 **Email:** david@davidwicks.site
+📧 **Email:** dawicks@gmail.com
 📞 **Phone:** 1-306-589-9020
 📍 **Location:** Zurich, Ontario, Canada
 ⏱️ **Response Time:** Usually within 24 hours
@@ -117,4 +117,4 @@ Looking for a physical repair or something fabricated? That's [over here](/repai
 
 ---
 
-Ready to get started? Fill out the form above, or email me directly at **[david@davidwicks.site](mailto:david@davidwicks.site)**.
+Ready to get started? Fill out the form above, or email me directly at **[dawicks@gmail.com](mailto:dawicks@gmail.com)**.
