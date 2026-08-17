@@ -1,0 +1,132 @@
+{{- /*
+  Overrides themes/loveit/layouts/partials/home/profile.html.
+
+  Only the avatar differs. The theme renders it through plugin/img.html,
+  which emits a lazysizes placeholder:
+
+      <img class="lazyload" src="/svg/loading.min.svg" data-src="/images/avatar.png">
+
+  The real image is swapped in by JavaScript. Two problems with that here:
+
+  1. It is the hero image, above the fold. Lazy-loading it saves nothing and
+     makes the most visible image on a site that sells websites depend on a
+     third-party script running successfully.
+  2. static/images/avatar.png is 1.2 MB, sent in full to every visitor
+     including phones, to be displayed at 8rem.
+
+  So: a plain <img>, no JS involved, resized by Hugo at build time from
+  assets/images/avatar.png, with width/height set to avoid layout shift.
+  Everything below the avatar is a verbatim copy of the theme partial.
+*/ -}}
+{{- $profile := .Site.Params.home.profile -}}
+<div class="home-profile">
+    {{- $avatar := $profile.avatarURL -}}
+    {{- with $profile.gravatarEmail -}}
+        {{- $avatar = md5 . | printf "https://www.gravatar.com/avatar/%v?s=240&d=mp" -}}
+    {{- end -}}
+    {{- if $avatar -}}
+        {{- /* Build the avatar <img> once, then reuse it inside or outside the link. */ -}}
+        {{- $avatarImg := "" -}}
+        {{- $alt := .Site.Params.author.name | default .Site.Title -}}
+        {{- with resources.Get "images/avatar.png" -}}
+            {{- $small := .Resize "256x webp q82" -}}
+            {{- $large := .Resize "512x webp q82" -}}
+            {{- $avatarImg = printf `<img src="%s" srcset="%s 1x, %s 2x" width="%d" height="%d" alt="%s" decoding="async" />` $small.RelPermalink $small.RelPermalink $large.RelPermalink $small.Width $small.Height $alt -}}
+        {{- else -}}
+            {{- /* Gravatar or a path outside assets/: plain img, still no lazyload. */ -}}
+            {{- $avatarImg = printf `<img src="%s" alt="%s" decoding="async" />` $avatar $alt -}}
+        {{- end -}}
+        <div class="home-avatar">
+            {{- $menus := $.Site.Menus.main | default slice -}}
+            {{- with index $menus 0 -}}
+                {{- $url := .URL | relLangURL -}}
+                {{- with .Page -}}
+                    {{- $url = .RelPermalink -}}
+                {{- end -}}
+                <a href="{{ $url }}"{{ with .Title | default .Name }} title="{{ . }}"{{ end }}{{ if (urls.Parse $url).Host }} rel="noopener noreffer" target="_blank"{{ end }}>
+                    {{- $avatarImg | safeHTML -}}
+                </a>
+            {{- else -}}
+                {{- $avatarImg | safeHTML -}}
+            {{- end -}}
+        </div>
+    {{- end -}}
+
+    {{- with $profile.title -}}
+        <h1 class="home-title">
+            {{- . | safeHTML -}}
+        </h1>
+    {{- end -}}
+
+    {{- with $profile.subtitle -}}
+        <div class="home-subtitle">
+            {{- if $profile.typeit -}}
+                {{- $id := dict "Content" . "Scratch" $.Scratch | partial "function/id.html" -}}
+                <div id="{{ $id }}" class="typeit"></div>
+                {{- dict $id (slice $id) | dict "typeitMap" | merge ($.Scratch.Get "this") | $.Scratch.Set "this" -}}
+            {{- else -}}
+                {{- . | safeHTML -}}
+            {{- end -}}
+        </div>
+    {{- end -}}
+
+    {{- if $profile.social -}}
+        <div class="links">
+            {{- $socialMap := resources.Get "data/social.yml" | transform.Unmarshal -}}
+            {{- $socialArr := slice -}}
+            {{- range $key, $value := .Site.Params.social -}}
+                {{- $social := $key | lower | index $socialMap | default dict -}}
+                {{- with $social.Alias -}}
+                    {{- $social = index $socialMap . | default dict -}}
+                {{- end -}}
+                {{- if $value -}}
+                    {{- if reflect.IsMap $value -}}
+                        {{- with $value.weight -}}
+                            {{- $social = dict "Weight" . | merge $social -}}
+                        {{- end -}}
+                        {{- with $value.prefix -}}
+                            {{- $social = dict "Prefix" . | merge $social -}}
+                        {{- end -}}
+                        {{- with index $value "template" -}}
+                            {{- $social = dict "Template" . | merge $social -}}
+                        {{- end -}}
+                        {{- with $value.id -}}
+                            {{- $social = dict "Id" . | merge $social -}}
+                        {{- end -}}
+                        {{- with $value.url -}}
+                            {{- $social = dict "Url" . | merge $social -}}
+                        {{- end -}}
+                        {{- with $value.title -}}
+                            {{- $social = dict "Title" . | merge $social -}}
+                        {{- end -}}
+                        {{- with $value.newtab -}}
+                            {{- $social = dict "Newtab" . | merge $social -}}
+                        {{- end -}}
+                        {{- with $value.icon -}}
+                            {{- $social = dict "Icon" . | merge $social -}}
+                        {{- end -}}
+                        {{- with $value.rel -}}
+                            {{- $social = dict "Rel" . | merge $social -}}
+                        {{- end -}}
+                    {{- else if ne $value true -}}
+                        {{- $social = dict "Id" $value | merge $social -}}
+                    {{- end -}}
+                    {{- if $social.Icon.Simpleicons -}}
+                        {{- $prefix := ($.Scratch.Get "cdn" | default dict).simpleIconsPrefix -}}
+                        {{- $social = dict "Prefix" $prefix | dict "Icon" | merge $social -}}
+                    {{- end -}}
+                    {{- $socialArr = $socialArr | append $social -}}
+                {{- end -}}
+            {{- end -}}
+            {{- range sort $socialArr "Weight" -}}
+                {{- partial "plugin/social.html" . -}}
+            {{- end -}}
+        </div>
+    {{- end -}}
+
+    {{- with $profile.disclaimer -}}
+        <h3 class="home-disclaimer">
+            {{- . | safeHTML -}}
+        </h3>
+    {{- end -}}
+</div>

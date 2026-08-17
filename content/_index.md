@@ -44,7 +44,7 @@ Fixed scope, fixed price, no surprise invoices.
 
 ### Website — ~~$2,400~~ $500
 
-**Live in two weeks. Introductory rate for the next few builds.**
+**Live in two weeks. Introductory rate — the first three builds only, then it goes back to $2,400.**
 
 - Up to six pages, built around what you actually do
 - Written for phones first
