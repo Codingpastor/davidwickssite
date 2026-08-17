@@ -75,50 +75,9 @@ Cancel any time. I'd rather you stay because it's worth it.
 
 ---
 
-### Working Session — $250
-
-**90 minutes to get unstuck.**
-
-- We work out what the actual problem is, not just the symptom
-- Two or three ways forward, with honest costs and effort
-- A written plan you can hand to anyone
-- Credited back if we go on to build something together
-
-Good when you know something has to change but not what to build, or what it should cost.
-
-[Book a session](/contact/)
-
----
-
-### Custom Build — $3,000 to $9,000
-
-**When a website isn't the answer.**
-
-- An internal tool, an AI agent, or automating something eating your week
-- Not a prototype — something your people actually use
-- Weekly demos, so you see it running the whole way through
-- 30 days of fixes included after launch
-
-[Start a project](/contact/)
-
----
-
-### Ongoing Development — $1,500/month
-
-**A developer on call.**
-
-- A standing block of my time every month
-- First in line when something breaks
-- A technical person in the room when you're making decisions
-- Three-month minimum, then month to month
-
-Good for organizations that keep needing things built and don't want to hire someone full-time.
-
-[Discuss a retainer](/contact/)
-
----
-
 **Churches and registered non-profits:** reduced rates apply, and the first conversation is always free. Ask me rather than assuming you can't afford it.
+
+**Need something that isn't a website?** A 90-minute working session is $250, custom builds run $3,000 to $9,000, and ongoing development is $1,500 a month. All of it is spelled out on the [services page](/services/).
 
 ---
 
