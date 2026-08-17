@@ -24,10 +24,10 @@ theme = 'loveit'
   dateFormat = "2006-01-02"
   # website title for Open Graph and Twitter Cards
   # 网站标题, 用于 Open Graph 和 Twitter Cards
-  title = "David Wicks — Practical Software for Churches & Non-Profits"
+  title = "David Wicks — Websites for churches, non-profits, and small business"
   # website description for RSS, SEO, Open Graph and Twitter Cards
   # 网站描述, 用于 RSS, SEO, Open Graph 和 Twitter Cards
-  description = "I'm a pastor who builds practical AI and web tools for churches, ministries, non-profits, and small organizations. Working sessions, build sprints, and ongoing support."
+  description = "I build and look after websites for churches, ministries, non-profits, and local business. Fixed price, live in two weeks, and you can edit it yourself."
   # website images for Open Graph and Twitter Cards
   # 网站图片, 用于 Open Graph 和 Twitter Cards
   images = []
@@ -73,7 +73,9 @@ theme = 'loveit'
     enable = true
     # Custom content (HTML format is supported)
     # 自定义内容 (支持 HTML 格式)
-    custom = """<a href="/repairs/">Repairs &amp; fabrication</a>"""
+    # Repairs & fabrication moved out of the site-wide footer and into
+    # /projects/: it distracted from the web-development focus on every page.
+    custom = ""
     # whether to show Hugo and theme info
     # 是否显示 Hugo 和主题信息
     hugo = true
@@ -192,7 +194,7 @@ theme = 'loveit'
       title = "A pastor who ships software."
       # subtitle shown in home page (HTML format is supported)
       # 主页显示的网站副标题 (允许 HTML 格式)
-      subtitle = "Helping churches and non-profits build useful online tools."
+      subtitle = "Websites for churches, non-profits, and small business."
       # whether to use typeit animation for subtitle
       # 是否为副标题显示打字机动画
       # On, deliberately. Note the trade-off: TypeIt renders the sub-line in
@@ -207,7 +209,7 @@ theme = 'loveit'
       social = false
       # disclaimer (HTML format is supported)
       # 免责声明 (支持 HTML 格式)
-      disclaimer = """Need something built? <a href="/services/">See what I can do</a> or <a href="/contact/">let's talk</a>."""
+      disclaimer = """Need a website? <a href="/services/">See what that costs</a> or <a href="/contact/">let's talk</a>."""
     # Home page posts
     # 主页文章列表
     [params.home.posts]
@@ -637,7 +639,13 @@ theme = 'loveit'
     # 位于 "themes/LoveIt/assets/data/cdn/" 目录
     # 可以在你的项目下相同路径存放你自己的数据文件:
     # "assets/data/cdn/"
-    data = "jsdelivr.yml"
+    # Disabled: with jsdelivr.yml set, every third-party library (lazysizes,
+    # FontAwesome, TypeIt, lunr...) loaded from cdn.jsdelivr.net. When that
+    # request fails or is slow, lazysizes never runs and every lazy-loaded
+    # image is stuck showing the loading placeholder - which is why the
+    # avatar rendered as /svg/loading.min.svg. Empty = serve the copies
+    # already shipped in the theme, from our own domain.
+    data = ""
 
   # Compatibility config
   # 兼容性设置

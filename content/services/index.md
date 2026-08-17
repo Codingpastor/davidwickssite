@@ -1,15 +1,48 @@
 ---
 title: "Services"
-description: "Working sessions, build sprints, and monthly retainers for churches, non-profits, and small organizations. Fixed scope, fixed price."
+description: "Websites from $2,400, live in two weeks, with a $75/month care plan. Built for churches, non-profits, and small business — and you can edit them yourself."
 date: 2025-11-26
 draft: false
 aliases:
   - /partner/
 ---
 
-Most developers say "we don't do that." I say "let's figure it out."
+I build and look after websites for churches, ministries, non-profits, and local businesses.
 
-I build practical AI and web tools for churches, ministries, non-profits, and small organizations. Three ways to work together, all with fixed scope and a fixed price. If your project doesn't fit one of them, tell me and we'll shape something that does.
+Fixed scope, fixed price, no surprise invoices. Every price on this page is the real number — you don't have to book a call to find out what things cost.
+
+---
+
+## Website — $2,400
+
+**Live in two weeks.**
+
+- Up to six pages, built around what you actually do
+- Written for phones first
+- You edit the content yourself — no ticket, no waiting on me
+- Set up so Google can find you properly
+- Contact forms that reach a real inbox
+- First month of the Care Plan included
+
+Good for a church, a non-profit, or a business that has no site — or one built years ago that nobody can update anymore.
+
+[Start a website](/contact/)
+
+---
+
+## Care Plan — $75/month
+
+**So it keeps working.**
+
+- Hosting, domain and SSL handled
+- Security updates and backups
+- Uptime monitoring — I find out before you do
+- Two content changes a month, whatever you need
+- Anything larger, billed hourly at a rate I tell you first
+
+Cancel any time. I'd rather you stay because it's worth it.
+
+[Add a Care Plan](/contact/)
 
 ---
 
@@ -28,49 +61,32 @@ Good when you know something has to change but not what to build, or when you've
 
 ---
 
-## Build Sprint — $3,000 to $9,000
+## Custom Build — $3,000 to $9,000
 
-**A working thing in production, in three to six weeks.**
+**When a website isn't the answer.**
 
-- Not a prototype — something your people can actually use
+- An internal tool, an AI agent, or automating something eating your week
+- Not a prototype — something your people actually use
 - Weekly demos, so you see it running the whole way through
 - Built so your staff can run it without me
 - 30 days of fixes included after launch
-
-Good for a website, an internal tool, an AI voice agent, or automating something that's currently eating a day of someone's week.
-
-Where a project lands in that range depends on scope, and I'll tell you which end you're at before you commit to anything.
 
 [Start a project](/contact/)
 
 ---
 
-## Retainer — $1,500/month
+## Ongoing Development — $1,500/month
 
-**Ongoing development and support.**
+**A developer on call.**
 
 - A standing block of my time every month
 - First in line when something breaks
-- Strategic input — a technical person in the room when you're making decisions
+- A technical person in the room when you're making decisions
 - Three-month minimum, then month to month
 
 Good for organizations that keep needing things built and don't want to hire someone full-time.
 
 [Discuss a retainer](/contact/)
-
----
-
-## One-Off Builds
-
-**The projects that don't fit any of the three above.**
-
-Some problems have a physical part, a human part, and a technical part all at once — and most people you could hire can only take one of the three. That's the work I want most.
-
-Molecular biology, counselling, pastoring, welding, code: the range isn't a party trick. It means that when a problem spans a workshop, a server, and a room full of people, I can carry the whole thing instead of handing two thirds of it to someone else.
-
-**Priced per project**, once we've worked out what it actually involves. That usually starts with a working session.
-
-[Tell me about it](/contact/) — these are the ones I say yes to fastest.
 
 ---
 
@@ -81,7 +97,7 @@ Molecular biology, counselling, pastoring, welding, code: the range isn't a part
 Too often smaller organizations have a real technical problem and no budget for professional help. So:
 
 - **The first conversation is always free.** No discovery fee, no obligation.
-- **Reduced rates apply** across all three of the options above.
+- **Reduced rates apply** across everything above.
 - **Small fixes are often pro bono** when I have the time — a broken form, a site that won't update, a login nobody can get into.
 
 If you're a ministry or non-profit, reach out even if you think you can't afford it. Let's talk about what you need and I'll do what I can to make it work within your constraints. Technology should serve the mission, not get in its way.
@@ -90,20 +106,20 @@ If you're a ministry or non-profit, reach out even if you think you can't afford
 
 ## Why Work With Me?
 
+### I'll Tell You Not To Build It
+Plenty of problems get solved by a spreadsheet, a free tool, or changing a process. I'd rather lose the project than take your money for something you didn't need — and I've turned down work on exactly those grounds.
+
+### You Won't Be Stranded
+The most common thing I hear is that the last person disappeared. Your site is built so your own people can run it, your domain stays in your name, and if you ever want to leave, you leave with everything.
+
 ### I Already Speak Your Language
-Two decades leading congregations. I know what a board meeting sounds like, why volunteer turnover breaks your process, and which "simple" request is going to cost you three months. You won't spend the first two weeks explaining your world to me.
+Two decades leading congregations. I know what a board meeting sounds like, why volunteer turnover breaks your process, and which "simple" request is going to cost you three months. If you're a business rather than a church, the same thing applies for a different reason — I run one, so I know what it's like to do this in the hours after everyone else has gone home.
 
 ### You Get The Person Writing The Code
 No account manager, no handoff, no junior developer learning on your budget. The person you talk to is the person building it.
 
-### I Say Yes
-While others say "we don't do that," I figure out how to make it happen. Novel problems are my specialty.
-
-### I'll Tell You Not To Build It
-Plenty of problems get solved by a spreadsheet, a free tool, or a change to a process. I'd rather lose the project than take your money for software you didn't need.
-
-### Clear Communication
-Trained as a counsellor and a pastor. I listen well, I explain clearly, and I'll tell you what's realistic and what isn't. No overselling and no surprises.
+### The Unusual Stuff Is Where I'm Strongest
+When a project has a physical part, a human part, and a technical part, I don't hand two thirds of it away.
 
 ---
 

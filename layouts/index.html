@@ -1,0 +1,63 @@
+{{- /*
+  Home page template.
+
+  This exists for ONE reason: to give the home page its own <title>.
+
+  LoveIt's baseof.html falls back to {{ .Site.Title }} for the title block,
+  and the theme's own index.html defines no title block - so the home page
+  would render as just "David Wicks". The SEO-critical page needs the full
+  "David Wicks — Websites for churches..." string, while every other page
+  wants the short site title as its suffix ("Services - David Wicks"), which
+  is why this is done here rather than by lengthening .Site.Title.
+
+  The content block below is a verbatim copy of
+  themes/loveit/layouts/index.html. Hugo replaces the theme's template
+  wholesale rather than merging blocks, so it has to be repeated. If the
+  theme submodule is ever updated, re-copy that block.
+*/ -}}
+
+{{- define "title" -}}
+{{ .Site.Params.title | default .Site.Title }}
+{{- end -}}
+
+{{- define "content" -}}
+    {{- $params := .Scratch.Get "params" -}}
+    {{- $profile := .Site.Params.home.profile -}}
+    {{- $posts := .Site.Params.home.posts -}}
+
+    <div class="page home"{{ if ne $posts.enable false }} data-home="posts"{{ end }}>
+        {{- /* Profile */ -}}
+        {{- if ne $profile.enable false -}}
+            {{- partial "home/profile.html" . -}}
+        {{- end -}}
+
+        {{- /* Content */ -}}
+        {{- if .Content -}}
+            <div class="single">
+                <div class="content" id="content">
+                    {{- dict "Content" .Content "Ruby" $params.ruby "Fraction" $params.fraction "Fontawesome" $params.fontawesome | partial "function/content.html" | safeHTML -}}
+                </div>
+            </div>
+        {{- end -}}
+
+        {{- /* Posts */ -}}
+        {{- if ne $posts.enable false | and .Site.RegularPages -}}
+            {{- /* Paginate */ -}}
+            {{- $pages := where .Site.RegularPages "Type" "posts" -}}
+            {{- if .Site.Params.page.hiddenFromHomePage -}}
+                {{- $pages = where $pages "Params.hiddenfromhomepage" false -}}
+            {{- else -}}
+                {{- $pages = where $pages "Params.hiddenfromhomepage" "!=" true -}}
+            {{- end -}}
+            {{- with $posts.paginate | default .Site.Params.paginate -}}
+                {{- $pages = $.Paginate $pages . -}}
+            {{- else -}}
+                {{- $pages = .Paginate $pages -}}
+            {{- end -}}
+            {{- range $pages.Pages -}}
+                {{- .Render "summary" -}}
+            {{- end -}}
+            {{- partial "paginator.html" . -}}
+        {{- end -}}
+    </div>
+{{- end -}}

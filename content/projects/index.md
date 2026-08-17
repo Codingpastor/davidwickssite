@@ -91,4 +91,10 @@ Small things, built quickly, mostly because I wanted them to exist.
 
 ---
 
+## Off The Screen
+
+Not everything I build is software. I also repair and fabricate physical things — vintage electronics, furniture, welding, and the occasional hybrid where a workshop problem needs a technical answer. Details on the [repairs and fabrication page](/repairs/).
+
+---
+
 Want something like one of these built for your organization? [Let's talk](/contact/).
