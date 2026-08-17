@@ -13,14 +13,12 @@ Let's talk about your project. I read every message myself and I'll let you know
 
 Whether you need:
 
-- **Custom software development** — web apps, automation, internal tools
-- **AI voice agents** — for answering questions, qualifying leads, or booking work
+- **A website** — built in two weeks, and you can edit it yourself afterwards
+- **A site you already have looked after** — hosting, updates, backups, small changes
 - **A working session** to figure out what you actually need before spending money
-- **Ongoing technical support** through a monthly retainer
+- **Something more custom** — an internal tool, an AI voice agent, or automating work that's eating your week
 
-I'm here to figure it out with you. Pricing is on the [services page](/services/).
-
-Looking for a physical repair or something fabricated? That's [over here](/repairs/).
+I'm here to figure it out with you. Every price is on the [services page](/services/) — you don't have to ask.
 
 ---
 
@@ -107,13 +105,13 @@ Looking for a physical repair or something fabricated? That's [over here](/repai
 
 ## Why Work With Me?
 
-**I Say Yes** — While others say "we don't do that," I figure out how to make it happen.
+**You Won't Be Stranded** — Your site is built so your own people can run it, your domain stays in your name, and if you ever want to leave, you leave with everything.
 
 **Clear Communication** — Trained as a counsellor and pastor, I listen well and explain clearly.
 
-**Fast & Flexible** — From quick fixes to major builds, I work at the pace your project needs.
+**Fixed Scope, Fixed Price** — You get a date and a number up front, not an open-ended project that quietly runs six months.
 
-**Full Stack Life** — Code, carpentry, counselling. My diverse skills mean I see solutions others miss.
+**I'll Tell You Not To Build It** — If a spreadsheet or a free tool solves your problem, I'd rather say so than take your money.
 
 ---
 

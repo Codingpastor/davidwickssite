@@ -681,11 +681,10 @@ theme = 'loveit'
     pre = "<i class='fas fa-diagram-project'></i>"
     url = "/projects/"
     weight = 2
-  [[menu.main]]
-    name = "Writing"
-    pre = "<i class='fas fa-pen-nib'></i>"
-    url = "/posts/"
-    weight = 3
+  # "Writing" removed from the nav: the blog is infrequent and pulled focus
+  # away from web development. The posts still build and still resolve at
+  # /posts/ - old links and search results keep working - they are just no
+  # longer promoted in the navigation.
   [[menu.main]]
     name = "Contact me"
     pre = "<i class='fas fa-envelope'></i>"

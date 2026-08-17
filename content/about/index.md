@@ -7,13 +7,14 @@ draft: false
 
 ## Who I Am
 
-I'm a pastor, developer, builder, and creator who loves solving problems. With training as a counselor and a background in molecular biology, I've spent my life combining technical skills with people skills.
+I'm a pastor who writes software. I build and look after websites for churches, ministries, non-profits, and local businesses — and I've been on your side of the table for over two decades, which is most of why I'm good at it.
 
 **What I do:**
-- **Custom Software Development** – Building web apps, automation tools, and digital solutions
-- **Physical Repairs & Fabrication** – Fixing vintage electronics, building furniture, welding projects, and creating custom solutions
-- **Counseling & Consulting** – Helping people and organizations work through challenges
-- **Problem-Solving** – If you can imagine it, I can probably figure out how to build it
+- **Websites** – Built in two weeks, phone-first, and handed over so your own people can update them
+- **Care and maintenance** – Hosting, security updates, backups and small changes, so the site doesn't rot
+- **Custom builds** – Internal tools, AI voice agents, and automating work that's eating someone's week
+
+Before ministry I trained as a counsellor and worked in molecular biology, and I still repair and fabricate physical things in a workshop. That range isn't the pitch — it's just why unusual problems don't scare me.
 
 I believe the best way to get something working is to throw something out there, refine it, debug, and try again. I love learning, creating new things, and truly believe just about anything that can be dreamed up can be created.
 

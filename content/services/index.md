@@ -1,6 +1,6 @@
 ---
 title: "Services"
-description: "Websites from $2,400, live in two weeks, with a $75/month care plan. Built for churches, non-profits, and small business — and you can edit them yourself."
+description: "Websites from $500 introductory, live in two weeks, with a $75/month care plan. Built for churches, non-profits, and small business — and you can edit them yourself."
 date: 2025-11-26
 draft: false
 aliases:
@@ -13,9 +13,9 @@ Fixed scope, fixed price, no surprise invoices. Every price on this page is the 
 
 ---
 
-## Website — $2,400
+## Website — ~~$2,400~~ $500
 
-**Live in two weeks.**
+**Live in two weeks. Introductory rate for the next few builds.**
 
 - Up to six pages, built around what you actually do
 - Written for phones first

@@ -19,6 +19,16 @@ The hard part was names. Off-the-shelf text-to-speech mangles half the roster, a
 
 ---
 
+## Say Any Name Right
+
+A free tool for getting unfamiliar names right. Type a name and it gives you a best-guess phonetic spelling; tap any sound to correct it, and it reads the name back in a real voice. Share the link and anyone else can hear exactly how to say it. No signup.
+
+It grew out of the pronunciation work behind BoomIntro — the same problem, pulled out into something coaches, teachers, HR teams and announcers can use on its own.
+
+**[pronounce.davidwicks.site](https://pronounce.davidwicks.site)** — *in progress*
+
+---
+
 ## Conversational AI Agents
 
 Voice agents built on [ElevenLabs](https://try.elevenlabs.io/davidwicks) that answer questions, qualify leads, and book work. I've deployed them as embedded widgets, through a custom WordPress plugin I wrote so non-technical staff can manage their own agents, and as a standalone web interface in JavaScript/Vite.

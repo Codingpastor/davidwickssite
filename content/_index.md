@@ -42,9 +42,9 @@ There's more — sports software, habit tracking, a digital detox program — ov
 
 Fixed scope, fixed price, no surprise invoices.
 
-### Website — $2,400
+### Website — ~~$2,400~~ $500
 
-**Live in two weeks.**
+**Live in two weeks. Introductory rate for the next few builds.**
 
 - Up to six pages, built around what you actually do
 - Written for phones first
