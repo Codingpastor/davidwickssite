@@ -19,6 +19,16 @@ The hard part was names. Off-the-shelf text-to-speech mangles half the roster, a
 
 ---
 
+## Best Cell Plan Now
+
+A cell phone plan finder that skips the listicles. You answer a few questions — how many lines, how much data you actually use, what you care about — and it scores every plan it tracks against your real answers, not a generic "best of" list.
+
+The math is the point: it accounts for state taxes, throttling, intro-price cliffs, and the device credits you'd forfeit by switching, so the number you see is the number you'd actually pay.
+
+**[bestcellplannow.com](https://bestcellplannow.com)** — 44 plans tracked across 13 carriers, 52 tax jurisdictions
+
+---
+
 ## Say Any Name Right
 
 A free tool for getting unfamiliar names right. Type a name and it gives you a best-guess phonetic spelling; tap any sound to correct it, and it reads the name back in a real voice. Share the link and anyone else can hear exactly how to say it. No signup.
