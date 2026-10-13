@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>QuietType Privacy Policy</title>
+<meta name="description" content="QuietType keeps your writing on your computer. No accounts, no tracking, no network connections.">
+<style>
+  :root { --bg: #f7f5f0; --ink: #26241f; --faint: #6f6a5f; --accent: #b5651d; --line: #e4dfd4; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #1b1a18; --ink: #dedad0; --faint: #a39e92; --accent: #d9954f; --line: #34312c; }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--ink);
+    font: 18px/1.65 Charter, "Iowan Old Style", Cambria, Georgia, serif;
+  }
+  main { max-width: 680px; margin: 0 auto; padding: 56px 16px 80px; }
+  h1 { font-size: 30px; line-height: 1.2; margin: 0 0 6px; font-weight: 600; }
+  .date { color: var(--faint); font: 14px/1.4 "Segoe UI", system-ui, sans-serif; margin: 0 0 32px; }
+  .short {
+    border-left: 3px solid var(--accent); padding: 4px 0 4px 18px; margin: 0 0 36px;
+  }
+  h2 { font: 600 13px/1.4 "Segoe UI", system-ui, sans-serif; text-transform: uppercase; letter-spacing: .06em; color: var(--faint); margin: 40px 0 8px; }
+  p, li { margin: 0 0 14px; }
+  ul { padding-left: 22px; margin: 0 0 14px; }
+  code { font: 15px "Cascadia Mono", Consolas, monospace; background: color-mix(in srgb, var(--line) 60%, transparent); padding: 1px 5px; border-radius: 4px; overflow-wrap: anywhere; }
+  a { color: var(--accent); }
+  footer { margin-top: 48px; padding-top: 18px; border-top: 1px solid var(--line); color: var(--faint); font: 14px/1.5 "Segoe UI", system-ui, sans-serif; }
+</style>
+</head>
+<body>
+<main>
+  <h1>QuietType Privacy Policy</h1>
+  <p class="date">Effective October 6, 2026</p>
+
+  <div class="short">
+    <p><strong>In short:</strong> what you write in QuietType stays on your computer. QuietType has no accounts,
+    no ads, no analytics and no tracking, and it never connects to the internet. The only time your words leave your computer
+    is when you choose to search for them, and then your web browser does the searching.</p>
+  </div>
+
+  <h2>What QuietType keeps, and where</h2>
+  <p>Everything below is stored only on your own computer, in places you control.</p>
+  <ul>
+    <li><strong>Your current draft</strong>, saved as you type so nothing is lost if QuietType closes. It lives in QuietType's app data folder.</li>
+    <li><strong>Your settings</strong>, such as theme, text size and shortcut, in the same folder.</li>
+    <li><strong>Recovery copies</strong>, dated copies of your writing saved every couple of minutes and before the page is cleared, in
+      <code>Documents\QuietType\Recovery</code>. The newest 200 are kept.</li>
+    <li><strong>A copy of what you send</strong>. Each time you press Ctrl + Enter, the text is added to a dated file in
+      <code>Documents\QuietType</code>. You can turn this off from the tray icon (“Keep a copy of what I send”).</li>
+    <li><strong>Word files you save</strong> with Ctrl + S, in the folder you choose.</li>
+    <li><strong>A troubleshooting log</strong> in the app data folder. It records events such as “copied” or “pasted” and how many
+      characters were involved, never the words themselves.</li>
+  </ul>
+  <p>You can delete any of these at any time. Uninstalling the Microsoft Store version removes the app data folder. Files in your
+    Documents folder stay until you delete them.</p>
+
+  <h2>The clipboard</h2>
+  <p>QuietType uses the Windows clipboard to move words in and out:</p>
+  <ul>
+    <li>When you open QuietType with its keyboard shortcut and you have text highlighted in another app, QuietType presses
+      Ctrl + C for you to bring that text in, then puts back whatever was on your clipboard before. You can turn this off from the tray icon
+      (“Bring in highlighted text when I open it”).</li>
+    <li>When you press Ctrl + Enter, QuietType puts your writing on the clipboard, returns to the window you were using and presses
+      Ctrl + V for you. You can turn off the automatic paste from the tray icon (“Paste for me when I finish”).</li>
+  </ul>
+  <p>To return you to the right place, QuietType notes which window was in front when you opened it. That's kept in memory
+    only for that moment and is never saved.</p>
+
+  <h2>Web search</h2>
+  <p>If you highlight words and press Ctrl + K, QuietType opens your web browser with a Google search for those words. QuietType
+    sends nothing itself. Your browser does the search, and Google's privacy policy applies to it. Nothing is searched unless you press Ctrl + K.</p>
+
+  <h2>What QuietType does not do</h2>
+  <ul>
+    <li>It makes no network connections and sends nothing to its maker or anyone else.</li>
+    <li>It has no accounts, sign-in, advertising, analytics or crash reporting of its own.</li>
+    <li>It doesn't sell, share or look at your writing.</li>
+    <li>It doesn't use AI, spellcheck services or writing assistants. By default it also keeps tools like Grammarly out of its page.</li>
+  </ul>
+
+  <h2>The Microsoft Store</h2>
+  <p>If you got QuietType from the Microsoft Store, Microsoft handles purchases, downloads and updates, and may collect information
+    about them under the <a href="https://privacy.microsoft.com/privacystatement">Microsoft Privacy Statement</a>. The maker of QuietType
+    sees only the reports Microsoft gives every app publisher, such as how many people installed QuietType and whether it crashed.</p>
+
+  <h2>Children</h2>
+  <p>QuietType collects no personal information from anyone, including children.</p>
+
+  <h2>Changes</h2>
+  <p>If this policy changes, the new version will be posted here with a new effective date.</p>
+
+  <h2>Questions</h2>
+  <p>Email <a href="mailto:dawicks@gmail.com">dawicks@gmail.com</a>.</p>
+
+  <footer>QuietType · made by David Wicks</footer>
+</main>
+</body>
+</html>
